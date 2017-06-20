@@ -8,12 +8,6 @@ title: 寻找莹颖 | findingyingying
 
 [TOC]
 
-## 链接
-
-FBI 官方 YINGYING ZHANG 页面: https://www.fbi.gov/wanted/kidnap/yingying-zhang
-
-UIUC 警方 Search-Updates: http://police.illinois.edu/search-updates/
-
 ## 进展
 
 ### (6月19日) 莹颖家人通过 Champain County Crime Stoppers 发布高额悬赏
@@ -131,6 +125,12 @@ Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois 
 - FBI Springfield Field Office 217-522-9675
 - University of Illinois Police Department (UIPD) 217-333-1216
 - UIPD anonymously 217-373-TIPS (8477)
+
+## 链接
+
+FBI 官方 YINGYING ZHANG 页面: https://www.fbi.gov/wanted/kidnap/yingying-zhang
+
+UIUC 警方 Search-Updates: http://police.illinois.edu/search-updates/
 
 ## 相关下载
 
