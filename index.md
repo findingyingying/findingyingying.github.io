@@ -2,8 +2,6 @@
 title: 寻找莹颖 | findingyingying
 ---
 
-测试页面，请勿转播。
-
 ![title](https://findingyingying.github.io/Library/web_title.jpg)
 
 <div class="addthis_inline_share_toolbox"></div>
@@ -12,7 +10,7 @@ title: 寻找莹颖 | findingyingying
 
 ## 进展
 
-### (6月19日) 莹颖家人通过 Champain County Crime Stoppers 发布高额悬赏
+### (6月19日) 莹颖家人通过 Champain County Crime Stoppers 发布4万美元高额悬赏
 
 >UIPD: "The Zhang family announced on Monday that they are working with Champaign County Crime Stoppers to offer a reward of up to $40,000 for information leading to an arrest in the disappearance of Yingying Zhang. " 
 >
