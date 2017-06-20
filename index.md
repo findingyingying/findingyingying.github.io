@@ -20,7 +20,10 @@ title: 寻找莹颖 | findingyingying
 >
 >UIPD: "Tips must be submitted through Crime Stoppers to be eligible for the reward. The Crime Stoppers reward is separate and not linked to the $10,000 reward offered by the FBI for information leading to the location of Ms. Zhang."
 
-**关于 CCCS 悬赏详情, 请以 UIUC 警方 Search-Updates 页面为准**：http://police.illinois.edu/search-updates/
+关于 CCCS 悬赏详情, 请以一下信息来源为准
+
+- UIUC 警方 Search-Updates 页面: http://police.illinois.edu/search-updates/
+- 关于悬赏新闻发布会视屏: https://www.youtube.com/watch?v=bAtSlk9iYj0
 
 ### (6月17日) 校方通过 GoFundMe 为莹颖家人募捐
 
