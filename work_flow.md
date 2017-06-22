@@ -1,0 +1,8 @@
+- 修改
+  - 检查update (Pin here)
+- 检查
+  - 社交链接
+  - 增加Library
+- 认证
+  - update ok | 
+- 发布

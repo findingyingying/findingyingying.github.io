@@ -8,6 +8,22 @@ title: 寻找莹颖 | findingyingying
 
 [TOC]
 
+## 链接
+
+[FBI 官方 YINGYING ZHANG 页面](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
+
+[UIUC 警方 Search-Updates](http://police.illinois.edu/search-updates/)
+
+[Crime Stoppers 官方网页](http://373tips.com/)
+
+[GoFundMe 募捐](https://www.gofundme.com/missing-u-of-i-scholar)
+
+[白宫请愿](https://petitions.whitehouse.gov/petition/we-are-looking-yingying-zhang-please-help-us)
+
+[Facebook - Find Yingying](https://www.facebook.com/findingyingying/)
+
+[微博-寻找莹颖](http://weibo.com/u/6285125373)
+
 ## 进展
 
 ### (6月19日) 莹颖家人通过 Champain County Crime Stoppers 发布4万美元高额悬赏
@@ -18,10 +34,13 @@ title: 寻找莹颖 | findingyingying
 >
 >UIPD: "Tips must be submitted through Crime Stoppers to be eligible for the reward. The Crime Stoppers reward is separate and not linked to the $10,000 reward offered by the FBI for information leading to the location of Ms. Zhang."
 
-关于 CCCS 悬赏详情, 请以官方信息为准:
+**关于 CCCS 悬赏详情, 请以官方信息为准:**
 
+- Crime Stoppers 官方网页: http://373tips.com/
 - UIUC 警方 Search-Updates 页面: http://police.illinois.edu/search-updates/
 - 关于悬赏新闻发布会视屏: https://www.youtube.com/watch?v=bAtSlk9iYj0
+
+带悬赏的海报下载: https://findingyingying.github.io/Library/reward.pdf
 
 ### (6月17日) 校方通过 GoFundMe 为莹颖家人募捐
 
@@ -68,7 +87,7 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 >
 >海报下载链接：https://findingyingying.github.io/Library/fbi-yingying-zhang.pdf
 
-### (6月14日) FBI 将案件定性为绑架(KIDNAPPING)。
+### (6月14日) FBI 将案件定性为绑架(KIDNAPPING)
 
 >FBI: “It appeared to be driven by a White male, and circled the area prior to making contact with Zhang.” 
 
@@ -115,32 +134,27 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 
 章莹颖，女，26岁，来自中国的 UIUC 访问学生。于当地时间 2017年6月9日中午前往 One North 签公寓合约，之后失联。齐肩短发，戴圆眼镜，身穿长袖浅色衬衫，蓝色牛仔裤, 白色平底鞋。身高1.6米。如果有人看见她，或者有任何线索，请联系:
 
+- Crime Stoppers: 217-373-TIPS (8477) or http://373tips.com
 - FBI: 1-800-CALLFBI (1-800-225-5324) 或 https://tips.fbi.gov/
-- 美国报警电话 911
 - FBI Springfield Field Office 217-522-9675
 - UIUC警方(UIPD) 217-333-1216
-- 匿名报警(UIPD) 217-373-TIPS (8477)
 
 Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois at Urbana-Champaign from China. She went to One North to sign the apartment lease around noontime (1-2 pm) on June 9th, 2017 and has been missing since then. She has short hairs, is wearing round glasses (as the top picture), long sleeved light color shirt, blue jean and white shoes. She is about 5’ 3” tall. If you happen to see her or have some clues, please call
 
-- FBI 1-800-CALLFBI (1-800-225-5324) or https://tips.fbi.gov/
-- 911
+- Crime Stoppers 217-373-TIPS (8477) or http://373tips.com
+- FBI 1-800-CALLFBI (1-800-225-5324) or https://tips.fbi.gov/ 
 - FBI Springfield Field Office 217-522-9675
 - University of Illinois Police Department (UIPD) 217-333-1216
-- UIPD anonymously 217-373-TIPS (8477)
-
-## 链接
-
-FBI 官方 YINGYING ZHANG 页面: https://www.fbi.gov/wanted/kidnap/yingying-zhang
-
-UIUC 警方 Search-Updates: http://police.illinois.edu/search-updates/
 
 ## 相关下载
 
-FBI海报与寻车海报: https://findingyingying.github.io/Library/fbi-yingying-zhang.pdf
-
-UIUC警方海报: http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/Public-Zhang.pdf
-
-寻人海报: https://findingyingying.github.io/Library/MissingPerson.pdf
+1. 带悬赏的海报: https://findingyingying.github.io/Library/reward.pdf
+2. 寻人启事: https://findingyingying.github.io/Library/MissingPerson.pdf
+3. 父亲公开信图片:  https://findingyingying.github.io/Library/father_letter.jpg
+4. FBI海报复刻: https://findingyingying.github.io/Library/yingying-zhang.pdf
+5. 莹颖照片: https://findingyingying.github.io/Library/img0.png
+6. 莹颖衬衣照片: https://findingyingying.github.io/Library/img1.jpg
+7. 莹颖背包照片: https://findingyingying.github.io/Library/img2.JPG
+8. 寻找莹颖网页用head图片: https://findingyingying.github.io/Library/web_title.jpg
 
 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59433a9ff16fc2e6"></script>
