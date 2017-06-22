@@ -87,7 +87,7 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 >
 >海报下载链接：https://findingyingying.github.io/Library/fbi-yingying-zhang.pdf
 
-### (6月14日) FBI 将案件定性为绑架(KIDNAPPING)。
+### (6月14日) FBI 将案件定性为绑架(KIDNAPPING)
 
 >FBI: “It appeared to be driven by a White male, and circled the area prior to making contact with Zhang.” 
 
