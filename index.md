@@ -135,8 +135,6 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 章莹颖，女，26岁，来自中国的 UIUC 访问学生。于当地时间 2017年6月9日中午前往 One North 签公寓合约，之后失联。齐肩短发，戴圆眼镜，身穿长袖浅色衬衫，蓝色牛仔裤, 白色平底鞋。身高1.6米。如果有人看见她，或者有任何线索，请联系:
 
 - Crime Stoppers: 217-373-TIPS (8477) or http://373tips.com
-
-
 - FBI: 1-800-CALLFBI (1-800-225-5324) 或 https://tips.fbi.gov/
 - FBI Springfield Field Office 217-522-9675
 - UIUC警方(UIPD) 217-333-1216
