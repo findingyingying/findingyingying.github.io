@@ -10,15 +10,19 @@ title: 寻找莹颖 | findingyingying
 
 ## 链接
 
-FBI 官方 YINGYING ZHANG 页面: https://www.fbi.gov/wanted/kidnap/yingying-zhang
+[FBI 官方 YINGYING ZHANG 页面](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
 
-UIUC 警方 Search-Updates: http://police.illinois.edu/search-updates/
+[UIUC 警方 Search-Updates](http://police.illinois.edu/search-updates/)
 
-Crime Stoppers 官方网页: http://373tips.com/
+[Crime Stoppers 官方网页](http://373tips.com/)
 
-GoFundMe 募捐: https://www.gofundme.com/missing-u-of-i-scholar
+[GoFundMe 募捐](https://www.gofundme.com/missing-u-of-i-scholar)
 
-白宫请愿: https://petitions.whitehouse.gov/petition/we-are-looking-yingying-zhang-please-help-us
+[白宫请愿](https://petitions.whitehouse.gov/petition/we-are-looking-yingying-zhang-please-help-us)
+
+[Facebook - Find Yingying](https://www.facebook.com/findingyingying/)
+
+[微博-寻找莹颖](http://weibo.com/u/6285125373)
 
 ## 进展
 
@@ -130,17 +134,19 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 
 章莹颖，女，26岁，来自中国的 UIUC 访问学生。于当地时间 2017年6月9日中午前往 One North 签公寓合约，之后失联。齐肩短发，戴圆眼镜，身穿长袖浅色衬衫，蓝色牛仔裤, 白色平底鞋。身高1.6米。如果有人看见她，或者有任何线索，请联系:
 
+- Crime Stoppers: 217-373-TIPS (8477) or http://373tips.com
+
+
 - FBI: 1-800-CALLFBI (1-800-225-5324) 或 https://tips.fbi.gov/
 - FBI Springfield Field Office 217-522-9675
 - UIUC警方(UIPD) 217-333-1216
-- Crime Stoppers: 217-373-TIPS (8477) or http://373tips.com
 
 Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois at Urbana-Champaign from China. She went to One North to sign the apartment lease around noontime (1-2 pm) on June 9th, 2017 and has been missing since then. She has short hairs, is wearing round glasses (as the top picture), long sleeved light color shirt, blue jean and white shoes. She is about 5’ 3” tall. If you happen to see her or have some clues, please call
 
+- Crime Stoppers 217-373-TIPS (8477) or http://373tips.com
 - FBI 1-800-CALLFBI (1-800-225-5324) or https://tips.fbi.gov/ 
 - FBI Springfield Field Office 217-522-9675
 - University of Illinois Police Department (UIPD) 217-333-1216
-- Crime Stoppers 217-373-TIPS (8477) or http://373tips.com
 
 ## 相关下载
 
@@ -148,7 +154,6 @@ Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois 
 2. 寻人启事: https://findingyingying.github.io/Library/MissingPerson.pdf
 3. 父亲公开信图片:  https://findingyingying.github.io/Library/father_letter.jpg
 4. FBI海报复刻: https://findingyingying.github.io/Library/yingying-zhang.pdf
-   - 来源地址: https://www.fbi.gov/wanted/kidnap/yingying-zhang/download.pdf
 5. 莹颖照片: https://findingyingying.github.io/Library/img0.png
 6. 莹颖衬衣照片: https://findingyingying.github.io/Library/img1.jpg
 7. 莹颖背包照片: https://findingyingying.github.io/Library/img2.JPG
