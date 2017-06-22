@@ -37,8 +37,6 @@ title: 寻找莹颖 | findingyingying
 关于 CCCS 悬赏详情, 请以官方信息为准:
 
 - Crime Stoppers 官方网页: http://373tips.com/
-
-
 - UIUC 警方 Search-Updates 页面: http://police.illinois.edu/search-updates/
 - 关于悬赏新闻发布会视屏: https://www.youtube.com/watch?v=bAtSlk9iYj0
 
