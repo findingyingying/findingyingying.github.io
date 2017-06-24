@@ -26,6 +26,30 @@ title: 寻找莹颖 | findingyingying
 
 ## 进展
 
+### (6月22日) 莹颖家人接受 WCIA 采访
+
+> Yingying's family have a message for her: "We all miss you very, very much and we ask Yingying, never ever, ever give up and we will forever find you."
+>
+> 莹颖家人通过媒体向莹颖传达信息：“莹颖，我们非常非常地想念你。绝对绝对不要放弃。我们会永远地寻找你。”
+
+更多内容详见 WCIA 报道视屏: http://www.illinoishomepage.net/news/local-news/family-of-missing-scholar-has-a-message/748772529?utm_medium=social&utm_source=twitter_WCIA3
+
+### (6月22日) 校方举办论坛与多方团体公开商讨对搜寻章莹颖的支持
+
+> FBI Assistant Special Agent in Charge Jon Holloway: "FBI has made this case a top priority nationwide."
+>
+> FBI: " FBI 已将此案列为全国首要任务。"
+>
+> U. of I. Police Chief Jeff Christensen: " ...department has also enlisted every available technological and human resource to work the case."
+>
+> UIUC警方: "...我们征用了一切可以利用的技术和人力来处理此案。"
+>
+> Investigators expressed again that, though they wish they could divulge more information about the case, they cannot comment on specific details of the investigation in order to protect its integrity and maintain the best possible chance of finding Yingying.
+>
+> FBI: "为了维护调查的正当性，为了最大化找到莹颖的概率，我们不能透露更多案件调查的细节。"
+
+详见 UIUC 警方 Search-Update: http://police.illinois.edu/search-updates/
+
 ### (6月19日) 莹颖家人通过 Champain County Crime Stoppers 发布4万美元高额悬赏
 
 >UIPD: "The Zhang family announced on Monday that they are working with Champaign County Crime Stoppers to offer a reward of up to $40,000 for information leading to an arrest in the disappearance of Yingying Zhang. " 
@@ -52,12 +76,16 @@ title: 寻找莹颖 | findingyingying
 ### (6月17日) FBI悬赏关于章莹颖所在位置的信息 
 
 >FBI: "The FBI is offering a reward of up to $10,000 for information leading to the location of Yingying Zhang. " 
+>
+>FBI: "FBI 现以1万美金悬赏关于章莹颖所在位置的信息。"
 
 **关于 FBI 悬赏详情, 请以 FBI 官方 YINGYING ZHANG 页面为准** : https://www.fbi.gov/wanted/kidnap/yingying-zhang
 
 ### (6月15日) UIUC 警方就案件诸多问题作答
 
->UIPD: "Stay up to date on the investigation, and help us disseminate accurate information. The more people to whom we can deliver verified, accurate information, the more likely we are to find Yingying. (请公众保持对案件的关注并帮助我们传播准确的信息。我们可以传递的信息越多，越准确，我们就越有可能找到莹颖。)"
+>UIPD: "Stay up to date on the investigation, and help us disseminate accurate information. The more people to whom we can deliver verified, accurate information, the more likely we are to find Yingying. "
+>
+>UIPD: "请公众保持对案件的关注并帮助我们传播准确的信息。我们可以传递的信息越多，越准确，我们就越有可能找到莹颖。"
 
 UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/forum-faqs.pdf
 
