@@ -1,10 +1,5 @@
-- 修改
-  - 检查update (Pin here)
-  - 警方的bus 照片
-  - FBI Assistant Special Agent in Charge Jon Holloway expressed that the FBI has made this case a top priority nationwide.
-  - U. of I. Police Chief Jeff Christensen said that the department has also enlisted every available technological and human resource to work the case.
-  - Investigators expressed again that, though they wish they could divulge more information about the case, they cannot comment on specific details of the investigation in order to protect its integrity and maintain the best possible chance of finding Yingying.
-- 检查
-- 认证 ing
-  - update ok | @李琰@管开宇 莹颖老师@霄霖Will |社交链接
-- 发布
+李：请在标题后加括号说（更新至6月24日）
+
+李：今天发布的话请用google doc中新版本，
+
+管：有个建议 现在我们想积极扩大美国这边的宣传面 那么开头就应该有个英文的guidance 几行简单的把重要 link给出来就好了！

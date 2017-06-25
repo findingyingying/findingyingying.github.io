@@ -8,29 +8,25 @@ title: 寻找莹颖 | findingyingying
 
 <div class="addthis_inline_share_toolbox"></div>
 
+- [FBI 章莹颖页面 | FBI YINGYING ZHANG](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
+
+- [UIUC 章莹颖页面|UIUC Search Updates](http://police.illinois.edu/search-updates/) 
+
+- [Crime Stoppers 悬赏 | Crime Stopper Reward](http://373tips.com/) 
+
+- [GoFundMe 捐款 | GoFundMe Donation](https://www.gofundme.com/missing-u-of-i-scholar)
+
+- [白宫请愿 | White House Petition](https://petitions.whitehouse.gov/petition/we-are-looking-yingying-zhang-please-help-us)
+
+- [志愿者寻找莹颖纪事 | Chronicle of finding Yingying](chronicle\chronicle.html)
+
+- [Facebook 寻找莹颖 | Facebook Find Yingying](https://www.facebook.com/findingyingying/)
+
+- [微博 寻找莹颖](http://weibo.com/u/6285125373) 
 [TOC]
+# 事件进展
 
-## 链接 | Links
-
-**[FBI 章莹颖页面 | FBI YINGYING ZHANG](https://www.fbi.gov/wanted/kidnap/yingying-zhang)**
-
-**[UIUC 章莹颖页面|UIUC Search Updates](http://police.illinois.edu/search-updates/) **
-
-**[Crime Stoppers 悬赏 | Crime Stopper Reward](http://373tips.com/) **
-
-**[GoFundMe 捐款 | GoFundMe Donation](https://www.gofundme.com/missing-u-of-i-scholar)**
-
-**[白宫请愿 | White House Petition](https://petitions.whitehouse.gov/petition/we-are-looking-yingying-zhang-please-help-us)**
-
-**[志愿者寻找莹颖纪事 | Chronicle of finding Yingying](chronicle\chronicle.html)**
-
-**[Facebook 寻找莹颖 | Facebook Find Yingying](https://www.facebook.com/findingyingying/)**
-
-**[微博 寻找莹颖](http://weibo.com/u/6285125373) **
-
-## 进展
-
-### (6月25日) 志愿者发布"志愿者寻找莹颖纪事"
+## (6月25日) 志愿者发布"志愿者寻找莹颖纪事"
 
 >志愿者纪事: "我们志愿者所做的一切，都为了同一个目标：愿莹颖早日平安归来。“
 
@@ -38,7 +34,7 @@ title: 寻找莹颖 | findingyingying
 
 (测试版本请先见:https://someonedomath.github.io/findingyingying.github.io/chronicle/chronicle.html )
 
-### (6月22日) 莹颖家人接受 WCIA 采访
+## (6月22日) 莹颖家人接受 WCIA 采访
 
 > Yingying's family have a message for her: "We all miss you very, very much and we ask Yingying, never ever, ever give up and we will forever find you."
 >
@@ -46,7 +42,7 @@ title: 寻找莹颖 | findingyingying
 
 更多内容详见 WCIA 报道视屏: http://www.illinoishomepage.net/news/local-news/family-of-missing-scholar-has-a-message/748772529?utm_medium=social&utm_source=twitter_WCIA3
 
-### (6月22日) 校方举办论坛与多方团体公开商讨对搜寻章莹颖的支持
+## (6月22日) 校方举办论坛与多方团体公开商讨对搜寻章莹颖的支持
 
 > FBI Assistant Special Agent in Charge Jon Holloway: "FBI has made this case a top priority nationwide."
 >
@@ -62,7 +58,7 @@ title: 寻找莹颖 | findingyingying
 
 详见 UIUC 警方 Search-Update: http://police.illinois.edu/search-updates/
 
-### (6月19日) 莹颖家人通过 Champain County Crime Stoppers 发布4万美元高额悬赏
+## (6月19日) 莹颖家人通过 Champain County Crime Stoppers 发布4万美元高额悬赏
 
 >UIPD: "The Zhang family announced on Monday that they are working with Champaign County Crime Stoppers to offer a reward of up to $40,000 for information leading to an arrest in the disappearance of Yingying Zhang. " 
 >
@@ -78,14 +74,14 @@ title: 寻找莹颖 | findingyingying
 
 带悬赏的海报下载: https://findingyingying.github.io/Library/reward.pdf
 
-### (6月17日) 校方通过 GoFundMe 为莹颖家人募捐
+## (6月17日) 校方通过 GoFundMe 为莹颖家人募捐
 
 >UIPD: "The U of I Community Credit Union has set up an account and a GoFundMe campaign to cover the family’s living expenses during their time on campus."
 
 详见: [http://police.illinois.edu/search-updates/](http://police.illinois.edu/search-updates/)
 捐款网站: [https://www.gofundme.com/missing-u-of-i-scholar](https://www.gofundme.com/missing-u-of-i-scholar)
 
-### (6月17日) FBI悬赏关于章莹颖所在位置的信息 
+## (6月17日) FBI悬赏关于章莹颖所在位置的信息 
 
 >FBI: "The FBI is offering a reward of up to $10,000 for information leading to the location of Yingying Zhang. " 
 >
@@ -93,7 +89,7 @@ title: 寻找莹颖 | findingyingying
 
 **关于 FBI 悬赏详情, 请以 FBI 官方 YINGYING ZHANG 页面为准** : https://www.fbi.gov/wanted/kidnap/yingying-zhang
 
-### (6月15日) UIUC 警方就案件诸多问题作答
+## (6月15日) UIUC 警方就案件诸多问题作答
 
 >UIPD: "Stay up to date on the investigation, and help us disseminate accurate information. The more people to whom we can deliver verified, accurate information, the more likely we are to find Yingying. "
 >
@@ -101,7 +97,7 @@ title: 寻找莹颖 | findingyingying
 
 UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/forum-faqs.pdf
 
-### (6月15日) Looking for Yingying Proposal
+## (6月15日) Looking for Yingying Proposal
 
 >Dear all,  
 >
@@ -113,7 +109,7 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 >
 >Poster link: https://findingyingying.github.io/Library/fbi-yingying-zhang.pdf
 
-###  (6月15日) 全美搜寻章莹颖倡议书
+##  (6月15日) 全美搜寻章莹颖倡议书
 
 >美国各高校的同学们，各地华人同胞们：
 >
@@ -127,17 +123,17 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 >
 >海报下载链接：https://findingyingying.github.io/Library/fbi-yingying-zhang.pdf
 
-### (6月14日) FBI 将案件定性为绑架(KIDNAPPING)
+## (6月14日) FBI 将案件定性为绑架(KIDNAPPING)
 
 >FBI: “It appeared to be driven by a White male, and circled the area prior to making contact with Zhang.” 
 
 详情请见 [FBI 官方 YINGYING ZHANG 页面](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
 
-### (6月14日) 来自莹颖家人的公开信
+## (6月14日) 来自莹颖家人的公开信
 
 >![公开信](https://findingyingying.github.io/Library/father_letter.jpg)
 
-### (6月13日) 来自莹颖的老师同学和 UIUC CSSA 的公开信
+## (6月13日) 来自莹颖的老师同学和 UIUC CSSA 的公开信
 
 >大家好！
 >
@@ -152,23 +148,23 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 >莹颖的老师同学 和 UIUC CSSA
 >2017年6月13日
 
-### (6月12日) UIUC 警方公布事发当天下午两点左右的街道监控录像
+## (6月12日) UIUC 警方公布事发当天下午两点左右的街道监控录像
 
 视频请见 [Youtube视屏页](https://www.youtube.com/watch?v=tdNWJQpspaU&feature=youtu.be) 。
 
 从视频中可以看到，莹颖站在 Goodwin Avenue 东侧，一辆黑色 Saturn Astra (不明年份) 驶靠在她旁边。莹颖似乎与司机交谈几句后，进入了副驾驶。 然后黑车沿着 Goodwin Avenue 向北开走了。
 
-### (6月11日) UIUC 警方发布事发当天 MTD 公交车监控视屏截图
+## (6月11日) UIUC 警方发布事发当天 MTD 公交车监控视屏截图
 
 >UIPD: ”Yingying Zhang boarded an MTD Teal line bus at the south shelter at Orchard Downs at 1:35 p.m. on Friday, June 9. She exited the bus at Springfield and Mathews avenues in Urbana at 1:52 p.m. Friday. At the time, she was wearing a charcoal gray hat with a white logo on the front. She has shoulder length brown hair, glasses, and a white/pink flannel print long sleeve shirt, white undershirt, jeans, white shoes, and a navy backpack.“
 
 详情请见 [UIUC警方官方Search-Updates](http://police.illinois.edu/search-updates/)
 
-### (2017年6月9日) 失联
+## (2017年6月9日) 失联
 
 章莹颖，女，26岁，来自中国的 UIUC 访问学生。于美国当地时间2017年6月9日中午去 One North 签公寓合约，之后与其亲友老师失联。
 
-## 寻人信息与联系方式
+# 寻人信息与联系方式
 
 ![img0](https://findingyingying.github.io/Library/img0.png)
 
@@ -186,7 +182,7 @@ Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois 
 - FBI Springfield Field Office 217-522-9675
 - University of Illinois Police Department (UIPD) 217-333-1216
 
-## 相关下载
+# 相关下载
 
 1. 带悬赏的海报: https://findingyingying.github.io/Library/reward.pdf
 2. 寻人启事: https://findingyingying.github.io/Library/MissingPerson.pdf
