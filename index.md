@@ -24,6 +24,8 @@ title: 寻找莹颖 | findingyingying
 
 [微博-寻找莹颖](http://weibo.com/u/6285125373)
 
+[志愿者寻找莹颖纪事](chronicle\chronicle.html)
+
 ## 进展
 
 ### (6月22日) 莹颖家人接受 WCIA 采访
