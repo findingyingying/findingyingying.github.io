@@ -144,6 +144,14 @@
 
 4. 讨论会后莹颖家人接受WCIA采访。
 
+**6月23日，星期五（第15天）**
+
+1. Jasmine Field Orchestra乐团和志愿者开始筹备莹颖音乐会，曲目来源于莹颖喜欢的音乐。
+
+**6月2****4****日，星期日（第1****6****天）**
+
+1. 在网站上（[https://findingyingying.github.io/](https://findingyingying.github.io/)）发布此寻找莹颖记事（更新到6月24日）。
+
 我们志愿者所做的一切，都为了同一个目标：愿莹颖早日平安归来。
 
 其他：
@@ -311,6 +319,14 @@ English version:
 4. From 6 pm to 7 pm, the university and police continue to hold a forum to answer public questions. The participants also discussed how they can help to find Yingying.
 
 5. After the forum Yingying's family took an interview by WCIA Channel 3。
+
+**June 23, Friday (Day 15)**
+
+1. Jasmine Field Orchestra and volunteers began to prepare a concert for Yingying，where the tracks come from Yingying's favorate music.
+
+**June 24, Saturday (Day 16)**
+
+1. This Chronicle of finding Yingying (updated to June 24) was published on the website ([https://findingyingying.github.io/](https://findingyingying.github.io/)).
 
 Everything we volunteers do is for one common goal: finding Yingying and safely escorting her home
 
