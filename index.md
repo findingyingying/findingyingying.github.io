@@ -8,7 +8,7 @@ title: 寻找莹颖 | findingyingying
 
 - [FBI 章莹颖页面 | FBI YINGYING ZHANG](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
 
-- [UIUC 章莹颖页面|UIUC Search Updates](http://police.illinois.edu/search-updates/) 
+- [UIUC 章莹颖页面 | UIUC Search Updates](http://police.illinois.edu/search-updates/) 
 
 - [Crime Stoppers 悬赏 | Crime Stopper Reward](http://373tips.com/) 
 
@@ -29,8 +29,6 @@ title: 寻找莹颖 | findingyingying
 >志愿者纪事: "我们志愿者所做的一切，都为了同一个目标：愿莹颖早日平安归来。“
 
 详细内容见: https://findingyingying.github.io/chronicle/chronicle.html
-
-(测试版本请先见:https://someonedomath.github.io/findingyingying.github.io/chronicle/chronicle.html )
 
 ## (6月22日) 莹颖家人接受 WCIA 采访
 
