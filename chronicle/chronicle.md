@@ -31,21 +31,13 @@
 **6月11日，星期日（第三天）**
 
 1. 同事前往警局与案件的专职警探（Detective）沟通；专职警探询问了莹颖失联前的基本信息。
-
 2. 志愿者到公交总站（Illinois Terminal），请公交公司将莹颖失联的消息公布在其网站上，并通知所有公交车司机，留下寻人海报供司机们传看辨认。
-
 3. 志愿者建立周日搜寻群（微信群）。
-
 4. 志愿者推测莹颖可能乘坐的公交路线和时间段。
-
 5. 根据警方建议，上午志愿者在One North公寓附近公园 (地图2)、Lincoln Ave两边居民区分组搜查，并将看到的可能丢弃物拍照，向警方提供有用的信息。
-
-6. 下午，志愿者在莹颖的可能换乘公交线周边（Illini terminal附近三个区域、One 	North区域、转车区域）继续搜查，包括terminal车站附近居民区。这些寻找基本都为地毯式的细致搜索。
-
+6. 下午，志愿者在莹颖的可能换乘公交线周边（Illini terminal附近三个区域、One North区域、转车区域）继续搜查，包括terminal车站附近居民区。这些寻找基本都为地毯式的细致搜索。
 7. 下午5点半左右，警方公布莹颖乘坐公交车监控录相片段。录相显示莹颖自离开实验室后先回家，随后1:30 pm在Orchard Downs公寓South Shelter公交车站上车（12路）、并在Springfield-Mathew intersection下车。发现莹颖没未乘坐往One North的22路公交车。
-
 8. 警方公布录相后，志愿者将Springfield-Mathew Avenue intersection周边划分为四个区域，继续搜查。另有志愿者去公交总站失物招领处，周边工地查看是否有丢失的iphone 5s。
-
 9. 周日，约有近200人参与志愿寻找活动。
 
 **6月12日，星期一（第四天）**
@@ -148,7 +140,7 @@
 
 1. Jasmine Field Orchestra乐团和志愿者开始筹备莹颖音乐会，曲目来源于莹颖喜欢的音乐。
 
-**6月2****4****日，星期日（第1****6****天）**
+**6月24日，星期五（第16天）**
 
 1. 在网站上（[https://findingyingying.github.io/](https://findingyingying.github.io/)）发布此寻找莹颖记事（更新到6月24日）。
 
@@ -300,13 +292,13 @@ English version:
 
 4. At 7 pm, Yingying's family, her colleagues, volunteers, and student representatives discussed their follow-up plan.
 
- 
+
 
 **Wednesday, June 21 (Day 13)**
 
 1. Volunteers updated the flyer of finding Yingying, adding the newly announced $40,000 reward.
 
- 
+
 
 **June 22, Thursday (Day 14)**
 

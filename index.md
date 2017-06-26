@@ -4,8 +4,6 @@ title: 寻找莹颖 | findingyingying
 
 ![title](https://findingyingying.github.io/Library/web_title.jpg)
 
-测试版本请勿分享。
-
 <div class="addthis_inline_share_toolbox"></div>
 
 - [FBI 章莹颖页面 | FBI YINGYING ZHANG](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
@@ -26,7 +24,7 @@ title: 寻找莹颖 | findingyingying
 [TOC]
 # 事件进展
 
-## (6月25日) 志愿者发布"志愿者寻找莹颖纪事"
+## (6月24日) 志愿者发布"志愿者寻找莹颖纪事"
 
 >志愿者纪事: "我们志愿者所做的一切，都为了同一个目标：愿莹颖早日平安归来。“
 
