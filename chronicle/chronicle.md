@@ -1,32 +1,8 @@
----
-title: 志愿者寻找莹颖纪事 | Chronicle of finding Yingying
----
-
-![title](https://findingyingying.github.io/Library/web_title.jpg)
-
-<div class="addthis_inline_share_toolbox"></div>
-
-- [FBI 章莹颖页面 | FBI YINGYING ZHANG](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
-
-- [UIUC 章莹颖页面 | UIUC Search Updates](http://police.illinois.edu/search-updates/) 
-
-- [Crime Stoppers 悬赏 | Crime Stopper Reward](http://373tips.com/) 
-
-- [GoFundMe 捐款 | GoFundMe Donation](https://www.gofundme.com/missing-u-of-i-scholar)
-
-- [白宫请愿 | White House Petition](https://petitions.whitehouse.gov/petition/we-are-looking-yingying-zhang-please-help-us)
-
-- [寻找莹颖 | findingyingying](https:\\findingyingying.github.io\)
-
-- [志愿者寻找莹颖纪事 | Chronicle of finding Yingying](chronicle\chronicle.html)
-
-- [Facebook 寻找莹颖 | Facebook Find Yingying](https://www.facebook.com/findingyingying/)
-
-- [微博 寻找莹颖](http://weibo.com/u/6285125373) 
-
-# 志愿者寻找莹颖纪事
+ 	 	
 
 英文版在中文版后 (English version is after the Chinese)
+
+**志愿者寻找莹颖纪事**
 
 **6月9日, 星期五（第一天）**
 
@@ -401,6 +377,4 @@ Flyer 2: June 12th’s flyer concerning the search for the suspect's car
 海报3：6月15日分发的海报
 
 Flyer 3: June 15th’ flyer
-
-<!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59433a9ff16fc2e6"></script>
 
