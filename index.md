@@ -16,14 +16,18 @@ title: 寻找莹颖 | findingyingying
 
 - [白宫请愿 | White House Petition](https://petitions.whitehouse.gov/petition/we-are-looking-yingying-zhang-please-help-us)
 
-- [寻找莹颖 | findingyingying](https:\\findingyingying.github.io\)
+- [寻找莹颖 | findingyingying](https://findingyingying.github.io/)
 
 - [志愿者寻找莹颖纪事 | Chronicle of finding Yingying](https://findingyingying.github.io/chronicle/chronicle.html)
 
 - [Facebook 寻找莹颖 | Facebook Find Yingying](https://www.facebook.com/findingyingying/)
 
+- [Twitter 寻找莹颖 | Twitter Find Yingying](https://twitter.com/find_yingying)
+
 - [微博 寻找莹颖](http://weibo.com/u/6285125373) 
+
 [TOC]
+
 # 事件进展
 
 ## (6月24日) 志愿者发布"志愿者寻找莹颖纪事"
