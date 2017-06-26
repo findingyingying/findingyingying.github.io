@@ -18,8 +18,6 @@ title: 志愿者寻找莹颖纪事 | Chronicle of finding Yingying
 
 - [寻找莹颖 | findingyingying](https:\\findingyingying.github.io\)
 
-- [志愿者寻找莹颖纪事 | Chronicle of finding Yingying](chronicle\chronicle.html)
-
 - [Facebook 寻找莹颖 | Facebook Find Yingying](https://www.facebook.com/findingyingying/)
 
 - [微博 寻找莹颖](http://weibo.com/u/6285125373) 
