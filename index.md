@@ -30,6 +30,20 @@ title: 寻找莹颖 | findingyingying
 
 # 事件进展
 
+## (6月27日) FBI 声称找到了绑架莹颖的车 （当前重大进展！）
+
+>The FBI has announced that investigators located the black Saturn Astra used in the abduction of Yingying Zhang.
+>
+>FBI spokesman Brad Ware refused to say where or when the car was found.
+>
+>FBI 声称已经找到了绑架莹颖的车。FBI 拒绝透露是何时何地找到的。
+>
+>FBI: “We continue to ask the public for information that could lead to locating Ms. Zhang. The FBI continues to offer a reward of up to $10,000 for information leading to the location of Yingying Zhang. ”
+>
+>FBI: "我们依然需要公众提供有关章莹颖所在位置的信息。 FBI 关于章莹颖所在位置信息的 1 万美金悬赏依然有效。“
+
+FBI 关于''找到绑架张莹颖的车"的公开信: http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/Yingying-Zhang-Press-Release-pdf-6-27-2017.pdf
+
 ## (6月24日) 志愿者发布"志愿者寻找莹颖纪事"
 
 >志愿者纪事: "我们志愿者所做的一切，都为了同一个目标：愿莹颖早日平安归来。“
@@ -74,7 +88,7 @@ title: 寻找莹颖 | findingyingying
 - UIUC 警方 Search-Updates 页面: http://police.illinois.edu/search-updates/
 - 关于悬赏新闻发布会视屏: https://www.youtube.com/watch?v=bAtSlk9iYj0
 
-带悬赏的海报下载: https://findingyingying.github.io/Library/reward.pdf
+志愿者制作, 带悬赏的海报下载: https://findingyingying.github.io/Library/reward.pdf
 
 ## (6月17日) 校方通过 GoFundMe 为莹颖家人募捐
 
@@ -111,6 +125,8 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 >
 >Poster link: https://findingyingying.github.io/Library/fbi-yingying-zhang.pdf
 
+FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wanted/kidnap/yingying-zhang
+
 ##  (6月15日) 全美搜寻章莹颖倡议书
 
 >美国各高校的同学们，各地华人同胞们：
@@ -124,6 +140,8 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 >莹颖家人老师和同事、UIUC CSSA 2017年6月15日
 >
 >海报下载链接：https://findingyingying.github.io/Library/fbi-yingying-zhang.pdf
+
+FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wanted/kidnap/yingying-zhang
 
 ## (6月14日) FBI 将案件定性为绑架(KIDNAPPING)
 
@@ -189,7 +207,10 @@ Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois 
 1. 带悬赏的海报: https://findingyingying.github.io/Library/reward.pdf
 2. 寻人启事: https://findingyingying.github.io/Library/MissingPerson.pdf
 3. 父亲公开信图片:  https://findingyingying.github.io/Library/father_letter.jpg
-4. FBI海报复刻: https://findingyingying.github.io/Library/yingying-zhang.pdf
+4. FBI海报下载地址
+  - https://www.fbi.gov/wanted/kidnap/yingying-zhang/download.pdf
+  - https://www.fbi.gov/wanted/kidnap/yingying-zhang/zhangchinese1.pdf
+  - https://www.fbi.gov/wanted/kidnap/yingying-zhang/zhangchinese2.pdf
 5. 莹颖照片: https://findingyingying.github.io/Library/img0.png
 6. 莹颖衬衣照片: https://findingyingying.github.io/Library/img1.jpg
 7. 莹颖背包照片: https://findingyingying.github.io/Library/img2.JPG

@@ -26,7 +26,7 @@ title: 志愿者寻找莹颖纪事 | Chronicle of finding Yingying
 
 - [微博 寻找莹颖](http://weibo.com/u/6285125373) 
 
-# 志愿者寻找莹颖纪事
+# 志愿者寻找莹颖纪事 (更新至6月24日)
 
 英文版在中文版后 (English version is after the Chinese)
 
@@ -190,7 +190,7 @@ Crime Stopper4万美元悬赏：[http://373tips.com](http://373tips.com)
 
 English version:
 
-**Chronicle of finding Yingying**
+# Chronicle of finding Yingying (updated to June 24)
 
 **June 9, Friday (Day 1)**
 
