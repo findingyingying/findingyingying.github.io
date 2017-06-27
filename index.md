@@ -42,7 +42,7 @@ title: 寻找莹颖 | findingyingying
 >
 >FBI: "我们依然需要公众提供有关章莹颖所在位置的信息。 FBI 关于章莹颖所在位置信息的 1 万美金悬赏依然有效。“
 
-FBI 关于''找到绑架张莹颖的车"的公开信: http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/Yingying-Zhang-Press-Release-pdf-6-27-2017.pdf
+FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/Yingying-Zhang-Press-Release-pdf-6-27-2017.pdf
 
 ## (6月24日) 志愿者发布"志愿者寻找莹颖纪事"
 
