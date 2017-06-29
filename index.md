@@ -6,7 +6,7 @@ title: 寻找莹颖 | findingyingying
 
 <div class="addthis_inline_share_toolbox"></div>
 
-# 相关链接
+<h1 style="text-align:center;">相关链接</h1>
 
 - [FBI 章莹颖页面 | FBI YINGYING ZHANG](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
 - [UIUC 章莹颖页面 | UIUC Search Updates](http://police.illinois.edu/search-updates/) 
@@ -21,13 +21,15 @@ title: 寻找莹颖 | findingyingying
 
 -----
 
-**页面导航**
+<h1 style="text-align:center;">页面导航</h1>
 
 [TOC]
 
+---
+
 # 事件进展
 
-## (6月27日) FBI 声称找到了绑架莹颖的车 （当前重大进展！）
+## (6月27日) FBI 声称找到了绑架莹颖的车 （<span style="color:red;">当前重大进展！</span>）
 
 >The FBI has announced that investigators located the black Saturn Astra used in the abduction of Yingying Zhang.
 >
@@ -41,7 +43,7 @@ title: 寻找莹颖 | findingyingying
 
 FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/Yingying-Zhang-Press-Release-pdf-6-27-2017.pdf
 
-
+<br><br>
 
 ## (6月24日) 志愿者发布"志愿者寻找莹颖纪事"
 
@@ -49,7 +51,7 @@ FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu
 
 详细内容见: https://findingyingying.github.io/chronicle/chronicle.html
 
-
+<br><br>
 
 ## (6月22日) 莹颖家人接受 WCIA 采访
 
@@ -59,7 +61,7 @@ FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu
 
 更多内容详见 WCIA 报道视屏: http://www.illinoishomepage.net/news/local-news/family-of-missing-scholar-has-a-message/748772529?utm_medium=social&utm_source=twitter_WCIA3
 
-
+<br><br>
 
 ## (6月22日) 校方举办论坛与多方团体公开商讨对搜寻章莹颖的支持
 
@@ -77,7 +79,7 @@ FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu
 
 详见 UIUC 警方 Search-Update: http://police.illinois.edu/search-updates/
 
-
+<br><br>
 
 ## (6月19日) 莹颖家人通过 Champain County Crime Stoppers 发布4万美元高额悬赏
 
@@ -95,7 +97,7 @@ FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu
 
 志愿者制作, 带悬赏的海报下载: https://findingyingying.github.io/Library/reward.pdf
 
-
+<br><br>
 
 ## (6月17日) 校方通过 GoFundMe 为莹颖家人募捐
 
@@ -104,7 +106,7 @@ FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu
 详见: [http://police.illinois.edu/search-updates/](http://police.illinois.edu/search-updates/)
 捐款网站: [https://www.gofundme.com/missing-u-of-i-scholar](https://www.gofundme.com/missing-u-of-i-scholar)
 
-
+<br><br>
 
 ## (6月17日) FBI悬赏关于章莹颖所在位置的信息 
 
@@ -114,7 +116,7 @@ FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu
 
 **关于 FBI 悬赏详情, 请以 FBI 官方 YINGYING ZHANG 页面为准** : https://www.fbi.gov/wanted/kidnap/yingying-zhang
 
-
+<br><br>
 
 ## (6月15日) UIUC 警方就案件诸多问题作答
 
@@ -124,7 +126,7 @@ FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu
 
 UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/forum-faqs.pdf
 
-
+<br><br>
 
 ## (6月15日) Looking for Yingying Proposal
 
@@ -140,7 +142,7 @@ UIUC 警方就案件诸多问题作答详见 http://police.illinois.edu/dpsapp/w
 
 FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wanted/kidnap/yingying-zhang
 
-
+<br><br>
 
 ##  (6月15日) 全美搜寻章莹颖倡议书
 
@@ -158,7 +160,7 @@ FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wa
 
 FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wanted/kidnap/yingying-zhang
 
-
+<br><br>
 
 ## (6月14日) FBI 将案件定性为绑架(KIDNAPPING)
 
@@ -166,13 +168,13 @@ FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wa
 
 详情请见 [FBI 官方 YINGYING ZHANG 页面](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
 
-
+<br><br>
 
 ## (6月14日) 来自莹颖家人的公开信
 
 >![公开信](https://findingyingying.github.io/Library/father_letter.jpg)
 
-
+<br><br>
 
 ## (6月13日) 来自莹颖的老师同学和 UIUC CSSA 的公开信
 
@@ -189,7 +191,7 @@ FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wa
 >莹颖的老师同学 和 UIUC CSSA
 >2017年6月13日
 
-
+<br><br>
 
 ## (6月12日) UIUC 警方公布事发当天下午两点左右的街道监控录像
 
@@ -197,7 +199,7 @@ FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wa
 
 从视频中可以看到，莹颖站在 Goodwin Avenue 东侧，一辆黑色 Saturn Astra (不明年份) 驶靠在她旁边。莹颖似乎与司机交谈几句后，进入了副驾驶。 然后黑车沿着 Goodwin Avenue 向北开走了。
 
-
+<br><br>
 
 ## (6月11日) UIUC 警方发布事发当天 MTD 公交车监控视屏截图
 
@@ -205,15 +207,15 @@ FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wa
 
 详情请见 [UIUC警方官方Search-Updates](http://police.illinois.edu/search-updates/)
 
-
+<br><br>
 
 ## (2017年6月9日) 失联
 
 章莹颖，女，26岁，来自中国的 UIUC 访问学生。于美国当地时间2017年6月9日中午去 One North 签公寓合约，之后与其亲友老师失联。
 
+<br><br>
 
-
-
+<br><br>
 
 # 寻人信息与联系方式
 
@@ -228,7 +230,7 @@ FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wa
 | FBI Springfield Field Office | 217-522-9675                   |                       |
 | UIUC警方(UIPD)                 | 217-333-1216                   |                       |
 
-
+<br><br>
 
 Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois at Urbana-Champaign from China. She went to One North to sign the apartment lease around noontime (1-2 pm) on June 9th, 2017 and has been missing since then. She has short hairs, is wearing round glasses (as the top picture), long sleeved light color shirt, blue jean and white shoes. She is about 5’ 3” tall. If you happen to see her or have some clues, please call
 
@@ -239,7 +241,9 @@ Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois 
 | FBI Springfield Field Office             | 217-522-9675                   |                       |
 | University of Illinois Police Department (UIPD) | 217-333-1216                   |                       |
 
+<br><br>
 
+<br><br>
 
 
 # 相关下载
