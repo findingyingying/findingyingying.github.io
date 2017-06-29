@@ -44,6 +44,8 @@ title: 寻找莹颖 | findingyingying
 
 FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/Yingying-Zhang-Press-Release-pdf-6-27-2017.pdf
 
+寻找莹颖海报: https://findingyingying.github.io/Library/reward.pdf
+
 ## (6月24日) 志愿者发布"志愿者寻找莹颖纪事"
 
 >志愿者纪事: "我们志愿者所做的一切，都为了同一个目标：愿莹颖早日平安归来。“
@@ -88,7 +90,7 @@ FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu
 - UIUC 警方 Search-Updates 页面: http://police.illinois.edu/search-updates/
 - 关于悬赏新闻发布会视屏: https://www.youtube.com/watch?v=bAtSlk9iYj0
 
-志愿者制作, 带悬赏的海报下载: https://findingyingying.github.io/Library/reward.pdf
+志愿者制作, 寻找莹颖海报下载: https://findingyingying.github.io/Library/reward.pdf
 
 ## (6月17日) 校方通过 GoFundMe 为莹颖家人募捐
 
@@ -204,7 +206,7 @@ Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois 
 
 # 相关下载
 
-1. 带悬赏的海报: https://findingyingying.github.io/Library/reward.pdf
+1. 寻找莹颖海报: https://findingyingying.github.io/Library/reward.pdf
 2. 寻人启事: https://findingyingying.github.io/Library/MissingPerson.pdf
 3. 父亲公开信图片:  https://findingyingying.github.io/Library/father_letter.jpg
 4. FBI海报下载地址
