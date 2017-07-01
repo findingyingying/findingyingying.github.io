@@ -25,11 +25,27 @@ title: 寻找莹颖 | findingyingying
 
 [TOC]
 
----
+----
 
 # 事件进展
 
-## (6月27日) FBI 声称找到了绑架莹颖的车 （<span style="color:red;">当前重大进展！</span>）
+## (6月30日) FBI逮捕了一位香槟男子, 该男子被指控绑架了章莹颖, 法律部门认为章已经遇害
+
+> UIPD: "Late today, FBI agents arrested a Champaign, Ill., man, Brendt Christensen, 27, on a criminal complaint that charges Christensen with kidnapping visiting Chinese scholar Yingying Zhang on June 9, 2017. Christensen will remain in law enforcement custody pending his initial federal court appearance in Urbana scheduled on Monday, July 3, at 10:00 a.m."
+>
+> UIPD: "当天晚些时候 (6月30日), FBI 逮捕了一名 27 岁的香槟男子。该男子被指控于 2017 年 6 月 9 日劫持了 UIUC 访问学者章莹颖。该男子将被拘留监禁直到 7月3日星期一上午10时。届时他将在厄巴纳联邦法庭出庭接受审理。"
+>
+> FBI: "On June 29, 2017, CHRISTENSEN was captured on audio recording while under law enforcement surveillance explaining how he kidnapped Y.Z. (Yingying Zhang). CHRISTENSEN stated that he brought Y.Z. back to his appartment, and otherwise held her in his apartment against her will. As of June 30, 2017, Y.Z. remains missing. Based on this, and other facts uncovered during the investigation of this matter, law enforcement does not believe Y.Z. is still alive."
+>
+> FBI: "2017年6月29日, 嫌疑人在法律部门的录音监控中，解释了自己是如何绑架章的。他解释了自己如何强行将章带回、控制在自己的公寓中。截止6月30日，章依然失踪。根据这点，以及其他未公开的调查事实。法律部门认为章已经遇害。"
+
+UIPD 6月30日紧急公告: [http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/063017-news-release.pdf](http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/063017-news-release.pdf)
+
+Criminal Complaint 刑事诉讼书: [http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/christensen-complnt.pdf](http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/christensen-complnt.pdf)
+
+<br><br>
+
+## (6月27日) FBI 声称找到了绑架莹颖的车 （当前重大进展！）
 
 >The FBI has announced that investigators located the black Saturn Astra used in the abduction of Yingying Zhang.
 >
@@ -42,6 +58,8 @@ title: 寻找莹颖 | findingyingying
 >FBI: "我们依然需要公众提供有关章莹颖所在位置的信息。 FBI 关于章莹颖所在位置信息的 1 万美金悬赏依然有效。“
 
 FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/Yingying-Zhang-Press-Release-pdf-6-27-2017.pdf
+
+寻找莹颖海报: https://findingyingying.github.io/Library/reward.pdf
 
 <br><br>
 
@@ -95,9 +113,9 @@ FBI 关于''找到绑架章莹颖的车"的公开信: http://police.illinois.edu
 - UIUC 警方 Search-Updates 页面: http://police.illinois.edu/search-updates/
 - 关于悬赏新闻发布会视屏: https://www.youtube.com/watch?v=bAtSlk9iYj0
 
-志愿者制作, 带悬赏的海报下载: https://findingyingying.github.io/Library/reward.pdf
+志愿者制作, 寻找莹颖海报下载: https://findingyingying.github.io/Library/reward.pdf
 
-<br><br>
+
 
 ## (6月17日) 校方通过 GoFundMe 为莹颖家人募捐
 
@@ -223,44 +241,34 @@ FBI 最新海报请见 FBI 官方 YINGYING ZHANG 页面 : https://www.fbi.gov/wa
 
 章莹颖，女，26岁，来自中国的 UIUC 访问学生。于当地时间 2017年6月9日中午前往 One North 签公寓合约，之后失联。齐肩短发，戴圆眼镜，身穿长袖浅色衬衫，蓝色牛仔裤, 白色平底鞋。身高1.6米。如果有人看见她，或者有任何线索，请联系:
 
-| 报警方式                         | 电话                             | 相关网站                  |
-| :--------------------------- | :----------------------------- | --------------------- |
-| Crime Stoppers               | 217-373-TIPS (8477)            | http://373tips.com    |
-| FBI                          | 1-800-CALLFBI (1-800-225-5324) | https://tips.fbi.gov/ |
-| FBI Springfield Field Office | 217-522-9675                   |                       |
-| UIUC警方(UIPD)                 | 217-333-1216                   |                       |
-
-<br><br>
+- Crime Stoppers: 217-373-TIPS (8477) or http://373tips.com
+- FBI: 1-800-CALLFBI (1-800-225-5324) 或 https://tips.fbi.gov/
+- FBI Springfield Field Office 217-522-9675
+- UIUC警方(UIPD) 217-333-1216
 
 Miss Yingying Zhang, 26 years old, a visiting scholar at University of Illinois at Urbana-Champaign from China. She went to One North to sign the apartment lease around noontime (1-2 pm) on June 9th, 2017 and has been missing since then. She has short hairs, is wearing round glasses (as the top picture), long sleeved light color shirt, blue jean and white shoes. She is about 5’ 3” tall. If you happen to see her or have some clues, please call
 
-| Report to                                | Tel                            | Links                 |
-| ---------------------------------------- | ------------------------------ | --------------------- |
-| Crime Stoppers                           | 217-373-TIPS (8477)            | http://373tips.com    |
-| FBI                                      | 1-800-CALLFBI (1-800-225-5324) | https://tips.fbi.gov/ |
-| FBI Springfield Field Office             | 217-522-9675                   |                       |
-| University of Illinois Police Department (UIPD) | 217-333-1216                   |                       |
+- Crime Stoppers 217-373-TIPS (8477) or http://373tips.com
+- FBI 1-800-CALLFBI (1-800-225-5324) or https://tips.fbi.gov/ 
+- FBI Springfield Field Office 217-522-9675
+- University of Illinois Police Department (UIPD) 217-333-1216
 
 <br><br>
 
 <br><br>
-
 
 # 相关下载
 
-|      文件       | 相关链接                                     |
-| :-----------: | :--------------------------------------- |
-|    带悬赏的海报     | https://findingyingying.github.io/Library/reward.pdf |
-|     寻人启事      | https://findingyingying.github.io/Library/MissingPerson.pdf |
-|    父亲公开信图片    | https://findingyingying.github.io/Library/father_letter.jpg |
-|   FBI海报下载地址   | https://www.fbi.gov/wanted/kidnap/yingying-zhang/download.pdf |
-|               | https://www.fbi.gov/wanted/kidnap/yingying-zhang/zhangchinese1.pdf |
-|               | https://www.fbi.gov/wanted/kidnap/yingying-zhang/zhangchinese2.pdf |
-|     莹颖照片      | https://findingyingying.github.io/Library/img0.png |
-|    莹颖衬衣照片     | https://findingyingying.github.io/Library/img1.jpg |
-|    莹颖背包照片     | https://findingyingying.github.io/Library/img2.JPG |
-| 寻找莹颖网页用head图片 | https://findingyingying.github.io/Library/web_title.jpg |
-
-
+1. 寻找莹颖海报: https://findingyingying.github.io/Library/reward.pdf
+2. 寻人启事: https://findingyingying.github.io/Library/MissingPerson.pdf
+3. 父亲公开信图片:  https://findingyingying.github.io/Library/father_letter.jpg
+4. FBI海报下载地址
+  - https://www.fbi.gov/wanted/kidnap/yingying-zhang/download.pdf
+  - https://www.fbi.gov/wanted/kidnap/yingying-zhang/zhangchinese1.pdf
+  - https://www.fbi.gov/wanted/kidnap/yingying-zhang/zhangchinese2.pdf
+5. 莹颖照片: https://findingyingying.github.io/Library/img0.png
+6. 莹颖衬衣照片: https://findingyingying.github.io/Library/img1.jpg
+7. 莹颖背包照片: https://findingyingying.github.io/Library/img2.JPG
+8. 寻找莹颖网页用head图片: https://findingyingying.github.io/Library/web_title.jpg
 
 <!-- Go to www.addthis.com/dashboard to customize your tools --> <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-59433a9ff16fc2e6"></script>
