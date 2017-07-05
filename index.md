@@ -26,13 +26,13 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
-## (7月3日) 嫌疑人 Brent Christensen 出庭
+## (7月3日) 犯罪嫌疑人 Brent Christensen 第一次出庭
 
->abc: "...During the nine-minute hearing, Christiansen did not speak other than to acknowledge to the federal judge that he understood his rights. U.S. Magistrate Eric Long ordered Christiansen to return to the court in Urbana on Wednesday to determine bond. "
+>ABC 7 Chicago: "...During the nine-minute hearing, Christiansen did not speak other than to acknowledge to the federal judge that he understood his rights. U.S. Magistrate Eric Long ordered Christiansen to return to the court in Urbana on Wednesday to determine bond. "
 >
->abc 新闻: "…在9分钟的法庭聆讯中，嫌疑人 Christiansen 除了向法官表示自己明白自己的权利外，并无其它发言。嫌疑人将在周三继续出庭关于保释的听证会。"
+>ABC 7 Chicago: "…在9分钟的法庭聆讯中，犯罪嫌疑人 Christiansen 除了向法官表示自己明白自己的权利外，并无其它发言。嫌疑人将在周三继续出庭关于保释的听证会。"
 
-abc 新闻: http://abc7chicago.com/news/man-charged-with-kidnapping-u-of-i-scholar-appears-in-court/2177426/
+ABC 7 Chicago 新闻网页: http://abc7chicago.com/news/man-charged-with-kidnapping-u-of-i-scholar-appears-in-court/2177426/
 
 ## (6月30日) FBI 逮捕了一位香槟男子, 该男子被指控绑架了章莹颖, 法律部门认为章已经遇害
 
