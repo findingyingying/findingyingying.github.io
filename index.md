@@ -12,8 +12,7 @@ title: 寻找莹颖 | findingyingying
 - [Crime Stoppers 悬赏 | Crime Stopper Reward](http://373tips.com/) 
 - [GoFundMe 捐款 | GoFundMe Donation](https://www.gofundme.com/missing-u-of-i-scholar)
 - [白宫请愿 | White House Petition](https://petitions.whitehouse.gov/petition/we-are-looking-yingying-zhang-please-help-us)
-- [寻找莹颖 | findingyingying](https://findingyingying.github.io/)
-- [志愿者寻找莹颖纪事 (更新至6月24日) | Chronicle of finding Yingying (updated to June 24)](https://findingyingying.github.io/chronicle/chronicle.html)
+- [志愿者寻找莹颖纪事 (更新至7月3日) | Chronicle of finding Yingying (updated to June 24)](https://findingyingying.github.io/chronicle/chronicle.html)
 - [Facebook 寻找莹颖 | Facebook Find Yingying](https://www.facebook.com/findingyingying/)
 - [Twitter 寻找莹颖 | Twitter Find Yingying](https://twitter.com/find_yingying)
 - [微博 寻找莹颖](http://weibo.com/u/6285125373) 
@@ -25,6 +24,22 @@ title: 寻找莹颖 | findingyingying
 <div style="text-align:center;">
 # 事件进展
 </div>
+
+## (7月5日) 本周三，法官裁定嫌疑人不得保释
+
+> UIPD: "A judge ruled Wednesday that the defendant be held without bail, meaning he will remain in custody indefinitely through the court proceedings."
+>
+> 学校警方: "法官裁定被告人不得保释，意味着在诉讼期间嫌疑人将被无限期关押。“
+>
+> UIPD: "The search for Ms. Zhang continues to be a top priority, and police are pursuing a number of methods which could help investigators find her. We are still encouraging anyone with information to contact us through the FBI at [tips.fbi.gov](http://tips.fbi.gov) or 1-800-CALL-FBI. Information may also be submitted anonymously through Champaign County Crime Stoppers at [http://373tips.com](http://373tips.com), 217-373-TIPS or through the P3 Tips mobile app. Messages to Crime Stoppers are routed through a third-party service and are stripped of any identifying information before the tip is forwarded to police."
+>
+> 学校警方: "搜寻章莹颖的下落依然是目前的首要工作，警方也在采取一系列的方法来帮助调查人员的搜寻工作。我们依然鼓励任何有线索的人士联系我们:
+>
+> FBI: 1-800-CALLFBI (1-800-225-5324) 或 [https://tips.fbi.gov/](https://tips.fbi.gov/)，
+>
+> Crime Stoppers: 217-373-TIPS (8477) 或 [http://373tips.com](http://373tips.com) 或 P3 Tips手机应用..."
+
+详见警方 Search-Update: [http://police.illinois.edu/search-updates/](http://police.illinois.edu/search-updates/)
 
 ## (7月3日) 犯罪嫌疑人 Brent Christensen 第一次出庭
 
