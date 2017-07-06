@@ -26,6 +26,22 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (7月5日) 本周三，法官裁定嫌疑人不得保释
+
+> A judge ruled Wednesday that the defendant be held without bail, meaning he will remain in custody indefinitely through the court proceedings.
+>
+> 法官裁定被告人不得保释，意味着在诉讼期间嫌疑人将被无限期关押。
+>
+> The search for Ms. Zhang continues to be a top priority, and police are pursuing a number of methods which could help investigators find her. We are still encouraging anyone with information to contact us through the FBI at [tips.fbi.gov](http://tips.fbi.gov) or 1-800-CALL-FBI. Information may also be submitted anonymously through Champaign County Crime Stoppers at [http://373tips.com](http://373tips.com), 217-373-TIPS or through the P3 Tips mobile app. Messages to Crime Stoppers are routed through a third-party service and are stripped of any identifying information before the tip is forwarded to police.
+>
+> 搜寻章莹颖的下落依然是目前的首要工作，警方也在采取一系列的方法来帮助调查人员的搜寻工作。我们依然鼓励任何有线索的人士联系我们:
+>
+> FBI: 1-800-CALLFBI (1-800-225-5324) 或 [https://tips.fbi.gov/](https://tips.fbi.gov/)，
+>
+> Crime Stoppers: 217-373-TIPS (8477) 或 [http://373tips.com](http://373tips.com) 或 P3 Tips手机应用...
+
+详见 UIUC 警方 Search-Update: [http://police.illinois.edu/search-updates/](http://police.illinois.edu/search-updates/)
+
 ## (7月3日) 犯罪嫌疑人 Brent Christensen 第一次出庭
 
 >ABC 7 Chicago: "...During the nine-minute hearing, Christiansen did not speak other than to acknowledge to the federal judge that he understood his rights. U.S. Magistrate Eric Long ordered Christiansen to return to the court in Urbana on Wednesday to determine bond. "
