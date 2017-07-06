@@ -6,8 +6,6 @@ title: 志愿者寻找莹颖纪事 | Chronicle of finding Yingying
 
 <div class="addthis_inline_share_toolbox"></div>
 
-- [FBI 章莹颖页面 | FBI YINGYING ZHANG](https://www.fbi.gov/wanted/kidnap/yingying-zhang)
-
 - [UIUC 章莹颖页面 | UIUC Search Updates](http://police.illinois.edu/search-updates/) 
 
 - [Crime Stoppers 悬赏 | Crime Stopper Reward](http://373tips.com/) 
@@ -18,15 +16,13 @@ title: 志愿者寻找莹颖纪事 | Chronicle of finding Yingying
 
 - [寻找莹颖 | findingyingying](https://findingyingying.github.io/)
 
-- [志愿者寻找莹颖纪事 | Chronicle of finding Yingying](https://findingyingying.github.io/chronicle/chronicle.html)
-
 - [Facebook 寻找莹颖 | Facebook Find Yingying](https://www.facebook.com/findingyingying/)
 
 - [Twitter 寻找莹颖 | Twitter Find Yingying](https://twitter.com/find_yingying)
 
 - [微博 寻找莹颖](http://weibo.com/u/6285125373) 
 
-# 志愿者寻找莹颖纪事 (更新至6月24日)
+# 志愿者寻找莹颖纪事 (更新至7月3日)
 
 英文版在中文版后 (English version is after the Chinese)
 
@@ -62,7 +58,7 @@ title: 志愿者寻找莹颖纪事 | Chronicle of finding Yingying
 4. 志愿者推测莹颖可能乘坐的公交路线和时间段。
 5. 根据警方建议，上午志愿者在One North公寓附近公园 (地图2)、Lincoln Ave两边居民区分组搜查，并将看到的可能丢弃物拍照，向警方提供有用的信息。
 6. 下午，志愿者在莹颖的可能换乘公交线周边（Illini terminal附近三个区域、One North区域、转车区域）继续搜查，包括terminal车站附近居民区。这些寻找基本都为地毯式的细致搜索。
-7. 下午5点半左右，警方公布莹颖乘坐公交车监控录相片段。录相显示莹颖自离开实验室后先回家，随后1:30 pm在Orchard Downs公寓South Shelter公交车站上车（12路）、并在Springfield-Mathew intersection下车。发现莹颖没未乘坐往One North的22路公交车。
+7. 下午5点半左右，警方公布莹颖乘坐公交车监控录相片段。录相显示莹颖自离开实验室后先回家，随后1:30 pm在Orchard Downs公寓South Shelter公交车站上车（12路）、并在Springfield-Mathew intersection下车。发现莹颖未乘坐往One North的22路公交车。
 8. 警方公布录相后，志愿者将Springfield-Mathew Avenue intersection周边划分为四个区域，继续搜查。另有志愿者去公交总站失物招领处，周边工地查看是否有丢失的iphone 5s。
 9. 周日，约有近200人参与志愿寻找活动。
 
@@ -136,7 +132,7 @@ title: 志愿者寻找莹颖纪事 | Chronicle of finding Yingying
 
 **6月19日，星期一（第11天）**
 
-1. 晚上7点，莹颖家人与学校召开新闻发布会，宣布通过Crimestoppers 设立4万美元奖金([www.373tips.com](http://www.373tips.com))，用于奖励寻找莹颖的线索。
+1. 晚上7点，莹颖家人与学校召开新闻发布会，宣布通过Crimestoppers 设立4万美元奖金([www.373tips.com](www.373tips.com))，用于奖励寻找莹颖的线索。
 
 **6月20日，星期二（第12天）**
 
@@ -170,7 +166,41 @@ title: 志愿者寻找莹颖纪事 | Chronicle of finding Yingying
 
 1. 在网站上（[https://findingyingying.github.io/](https://findingyingying.github.io/)）发布此寻找莹颖记事（更新到6月24日）。
 
-我们志愿者所做的一切，都为了同一个目标：愿莹颖早日平安归来。
+**6月27日，星期二（第20天）**
+
+1. 下午警方发布消息说已找到莹颖所乘坐黑色汽车。
+
+**6月28日，星期三（第21天）**
+
+1. 上午志愿者接受CNN采访
+
+2. 志愿者制作新版海报
+
+**6月29日，星期四（第22天）**
+
+1. 下午6点半，CSSA学生会和学校举办了Walk & Concert to Support Yingying Zhang（支持章莹颖的行走和音乐会），超过300民众参与，其中包括莹颖家人。参与民众从Krannert Center走到Turner Hall（工作地点），随后走到失踪地点，最后返回Krannert Center参加音乐会。
+
+2. 晚上7点半，在Krannert Center举办了为莹颖的音乐会，由Jasmine Fields Orchestra乐团表演了多首莹颖最喜欢的曲目。莹颖男友也进行了吉他弹唱。
+
+**6月30日，星期五（第23天）**
+
+1. 晚上8点警方公布案件重大进展，逮捕了犯罪嫌疑人Brendt Christensen，并且认为章莹颖已经遇害。
+
+2. 犯罪嫌疑人Brendt Christensen五月份刚从伊利诺伊大学物理系毕业。
+
+**7月1日，星期六（第24天）**
+
+1. 网友通过照片发现犯罪嫌疑人竟然参加了周四为莹颖举办的游行。
+
+**7月3日，星期一（第25天）**
+
+1. 上午10点，犯罪嫌疑人Brendt Christensen在联邦法庭第一次出庭，法官宣布他被绑架罪起诉。
+
+2. 近300名市民到法庭外集会要求伸张正义，惩治凶手。
+
+
+
+**我们志愿者所做的一切，都为了同一个目标：愿莹颖早日平安归来。**
 
 其他：
 
