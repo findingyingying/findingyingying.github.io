@@ -12,7 +12,6 @@ title: 寻找莹颖 | findingyingying
 - [Crime Stoppers 悬赏 | Crime Stopper Reward](http://373tips.com/) 
 - [GoFundMe 捐款 | GoFundMe Donation](https://www.gofundme.com/missing-u-of-i-scholar)
 - [白宫请愿 | White House Petition](https://petitions.whitehouse.gov/petition/we-are-looking-yingying-zhang-please-help-us)
-- [寻找莹颖 | findingyingying](https://findingyingying.github.io/)
 - [志愿者寻找莹颖纪事 (更新至7月3日) | Chronicle of finding Yingying (updated to June 24)](https://findingyingying.github.io/chronicle/chronicle.html)
 - [Facebook 寻找莹颖 | Facebook Find Yingying](https://www.facebook.com/findingyingying/)
 - [Twitter 寻找莹颖 | Twitter Find Yingying](https://twitter.com/find_yingying)
