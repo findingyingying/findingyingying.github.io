@@ -25,6 +25,27 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (7月12日) 联邦大陪审团以绑架罪名起诉嫌疑人 Brendt Christensen
+
+> UIDP: "A federal grand jury today indicted 28-year-old Brendt Christensen on charges of kidnapping. The Acting U.S. Attorney Patrick D. Hansen and FBI Special Agent in Charge Sean Cox announced the indictment in a press release"
+>
+> 学校警方：“联邦大陪审团以绑架罪名起诉嫌疑人 Brendt Christensen。美联邦法院检察官 Patrick D. Hansen 和 FBI 探员 Sean Cox 向媒体公布了公诉书 (INDICTMENT).”
+>
+> U.S. Attorney’s Office: ”The date for arraignment for Christensen will be scheduled by the U.S. Clerk of the Court in Urbana. A preliminary hearing that had been scheduled on July 14, has been cancelled.“
+>
+> 美联邦司法部: "预定于 7 月 14 日举行的初步聆讯 (preliminary hearing) 已被取消。传讯 (arraignment) 日期将由厄巴纳联邦法院文书部门 (the U.S. Clerk of the Court in Urbana) 安排. ”
+>
+> News-gazette: "Christensen will be arraigned at 3 p.m. on July 20 in Long’s courtroom in Urbana."
+>
+> 新闻媒体 News-gazette：“预计 7 月 20 日下午 3 点，嫌疑人 Christensen 将在厄巴纳法庭被传讯。“
+
+详见: 
+
+- 美联邦司法部新闻稿: https://www.justice.gov/usao-cdil/pr/grand-jury-indicts-champaign-man-charge-kidnapping
+- 公诉书: https://www.justice.gov/usao-cdil/press-release/file/980141/download
+- UIPD search update: http://police.illinois.edu/search-updates/
+- News-gazette 新闻报道: http://www.news-gazette.com/news/local/2017-07-12/new-christensen-be-arraigned-federal-kidnapping-charge-july-20.html
+
 ## (7月5日) 本周三，法官裁定嫌疑人不得保释
 
 > UIPD: "A judge ruled Wednesday that the defendant be held without bail, meaning he will remain in custody indefinitely through the court proceedings."
