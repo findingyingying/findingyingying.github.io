@@ -34,12 +34,17 @@ title: 寻找莹颖 | findingyingying
 > U.S. Attorney’s Office: ”The date for arraignment for Christensen will be scheduled by the U.S. Clerk of the Court in Urbana. A preliminary hearing that had been scheduled on July 14, has been cancelled.“
 >
 > 美联邦司法部: "预定于 7 月 14 日举行的初步聆讯 (preliminary hearing) 已被取消。传讯 (arraignment) 日期将由厄巴纳联邦法院文书部门 (the U.S. Clerk of the Court in Urbana) 安排. ”
+>
+> News-gazette: "Christensen will be arraigned at 3 p.m. on July 20 in Long’s courtroom in Urbana."
+>
+> 新闻媒体 News-gazette：“预计 7 月 20 日下午 3 点，嫌疑人 Christensen 将在厄巴纳法庭被传讯。“
 
 详见: 
 
 - 美联邦司法部新闻稿: https://www.justice.gov/usao-cdil/pr/grand-jury-indicts-champaign-man-charge-kidnapping
 - 公诉书: https://www.justice.gov/usao-cdil/press-release/file/980141/download
-- 详见 UIPD search update: http://police.illinois.edu/search-updates/
+- UIPD search update: http://police.illinois.edu/search-updates/
+- News-gazette 新闻报道: http://www.news-gazette.com/news/local/2017-07-12/new-christensen-be-arraigned-federal-kidnapping-charge-july-20.html
 
 ## (7月5日) 本周三，法官裁定嫌疑人不得保释
 
