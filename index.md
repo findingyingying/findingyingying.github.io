@@ -25,6 +25,29 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (7月14日) 莹颖家人通过 Champain County Crime Stoppers 将悬赏额度提高到5万美金
+
+> Yingying's family: "…In hopes that someone, somewhere has information on where to find Yingying, we are increasing the reward for information about her location up to $50,000. We would consider additional reward, if anyone can bring her back safely…"
+>
+> 颖莹家人：” ...也许在某个地方，还有人知道更多的信息，可以帮助我们找到莹颖的所在地。带着这种期愿，我们将悬赏额度提高到5万美金。如果有人能将莹颖带回来，我们还会考虑更多的报偿。”
+>
+> Yingying's family: "..Investigators were able to make an arrest, in part because of information shared with them by people in Champaign-Urbana. We are so grateful for their courage and compassion, and we hope that others who might have additional information will follow that example and help us find Yingying. Thank you."
+>
+> 颖莹家人：”…调查人员之所以能够顺利的完成逮捕，部分原因正是归功于香槟-厄巴纳当地居民提供的信息。我们非常感激他们的勇气与同情。我们期愿那些有更多信息的人，能效仿这些例子，帮助我们找到莹颖的所在。谢谢你们。“
+>
+> UIPD: "…Tips must be submitted through Crime Stoppers to be eligible for the reward. The Crime Stoppers reward is separate and not linked to the $10,000 reward offered by the FBI for information leading to the location of Ms. Zhang. Calls and messages to Crime Stoppers are routed to a third-party call center, which strips all identifying information from the call before forwarding the information to police. Callers are assigned a unique identifying number."
+>
+> 学校警方: "必须通过 Crime Stoppers 提供信息才能得到（5万美金）奖励。Crime Stoppers 的奖励与 FBI 提供的1万刀奖励没有关联，是分开的。Crime Stoppers 接到的电话和信息都将通过一个第三方呼叫中心转交给警察。在这个过程中，第三方呼叫中心将隐藏呼叫方的任何个人信息。每个匿名提供信息的人都将得到一个独立的身份验证码（a unique identifying number）。"
+
+详见：
+
+- 新闻发布会视屏：https://www.facebook.com/UIpolice/videos/10155510925191060/
+- UIPD search updates：http://police.illinois.edu/search-updates/
+- Crime Stoppers 提供匿名信息电话：217-373-TIPS(8477)
+- Crime Stoppers 提供匿名信息网站：http://373tips.com/
+- Crime Stoppers iOS app 下载：https://itunes.apple.com/us/app/p3-tips/id997141662?mt=8
+- Crime Stoppers Android app 下载：https://play.google.com/store/apps/details?id=com.p3tips.mob&hl=en
+
 ## (7月12日) 联邦大陪审团以绑架罪名起诉嫌疑人 Brendt Christensen
 
 > UIDP: "A federal grand jury today indicted 28-year-old Brendt Christensen on charges of kidnapping. The Acting U.S. Attorney Patrick D. Hansen and FBI Special Agent in Charge Sean Cox announced the indictment in a press release"
