@@ -29,7 +29,7 @@ title: 寻找莹颖 | findingyingying
 
 > Yingying's family: "…In hopes that someone, somewhere has information on where to find Yingying, we are increasing the reward for information about her location up to $50,000. We would consider additional reward, if anyone can bring her back safely…"
 >
-> 颖莹家人：” ...也许在某个地方，还有人知道更多的信息，可以帮助我们找到莹颖的所在地。带着这种期愿，我们将悬赏额度提高到5万美金。如果有人能将莹颖平安带回，我们原意给予更高的报偿。”
+> 颖莹家人：” ...也许在某个地方，还有人知道更多的信息，可以帮助我们找到莹颖的所在地。带着这种期愿，我们将悬赏额度提高到5万美金。如果有人能将莹颖平安带回，我们愿意给予更高的报偿。”
 >
 > Yingying's family: "..Investigators were able to make an arrest, in part because of information shared with them by people in Champaign-Urbana. We are so grateful for their courage and compassion, and we hope that others who might have additional information will follow that example and help us find Yingying. Thank you."
 >
