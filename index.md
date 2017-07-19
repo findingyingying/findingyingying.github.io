@@ -63,6 +63,22 @@ UIPD 6月30日紧急公告: [http://police.illinois.edu/dpsapp/wp-content/upload
 
 Criminal Complaint 刑事诉讼书: [http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/christensen-complnt.pdf](http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/christensen-complnt.pdf)
 
+## (6月29日) 校方与学联为章莹颖举办游行及音乐会
+
+> The University of Illinois and the Chinese Students and Scholars Association (CSSA) invite you to join them on this walk and concert to convey community support and concern for Yingying Zhang, the visiting scholar missing since June 9.
+>
+> 为表达对章莹颖的支持，伊利偌伊大学与中国学生学者联合会(CSSA)邀请您加入游行以及音乐会。
+>
+> Meet outside Krannert Center in the plaza on the western side of the building at 6:30pm. The walk will begin at 6:45pm and head to Turner Hall where Zhang works, then to the bus stop on North Goodwin Avenue where she was last seen, and back to Krannert Center. The concert will follow at Stage 5 featuring Jasmine Fields Orchestra.
+>
+> 时间：6月29日下午6:30
+>
+> 地点：Krannert Center西侧广场
+>
+> 游行将在下午6:45开始，首先前往莹颖工作的地方Turner Hall，然后前往莹颖最后被目击的巴士站North Goodwin Ave，最后返回Krannert Center。音乐会随之将在第五舞台开始，由Jasmine Fields Orchestra领衔。
+
+详见学校Krannert Center公告: https://krannertcenter.com/events/walk-and-concert-support-yingying-zhang
+
 ## (6月27日) FBI 声称找到了绑架莹颖的车
 
 >The FBI has announced that investigators located the black Saturn Astra used in the abduction of Yingying Zhang.
