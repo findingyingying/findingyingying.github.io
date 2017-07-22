@@ -25,6 +25,18 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (7月20日) 嫌疑人 Christensen 在提审 (arraignment) 中拒绝认罪 
+
+> CNN: "Brendt Christensen pleaded not guilty Thursday to one count of kidnapping in connection with the disappearance of Yingying Zhang, a University of Illinois student from China."
+>
+> CNN 新闻媒体: "(在20日的传讯 (arraignment) 中) 嫌疑人 Brendt Christensen 拒绝认罪。Christensen 被指控绑架了来自中国的伊利诺伊大学留学生章莹颖。"
+>
+> CNN: "He is due in court again on August 28 for a pretrial hearing. A trial has tentatively been scheduled for September 12."
+>
+> CNN 新闻媒体: " 他 (嫌疑人 Christensen) 将在 8 月 28 日的预审听证会（pretrial hearing）中再次出庭。正式的审判（trial）暂时安排在 9 月 12 日。"
+
+CNN 新闻报道: http://www.cnn.com/2017/07/20/us/chinese-scholar-kidnapping-suspect-plea/index.html
+
 ## (7月14日) 莹颖家人通过 Champain County Crime Stoppers 将悬赏额度提高到5万美金
 
 > Yingying's family: "…In hopes that someone, somewhere has information on where to find Yingying, we are increasing the reward for information about her location up to $50,000. We would consider additional reward, if anyone can bring her back safely…"
