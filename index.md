@@ -25,6 +25,46 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (8月22日) 校方举办新闻发布会，家人、学校和警方分别发表声明
+
+> 颖莹家人: " (新闻发布会) 在坐的很多人都是为人父母，你们一定能感受到我们的痛苦。我们很感谢两个多月来与我们一起等待，支持我们，给予我们无私帮助的所有人。莹颖是个勇敢的女孩子，她不会放弃，我们也一定不会放弃她，这是我们给她的承诺。即便几个月，一年甚至更长，即便没有任何莹颖的消息，你会看到我们一直站在这里寻找她，我们永远不会放弃她，找到她带她回家，我相信这个梦并不远。"
+
+> UIPD:" The investigation is ongoing and continues to be a top priority of University of Illinois Police Department and FBI investigators. "
+>
+> 学校警方:" 对章莹颖的搜索和对案件的调查依然是 UIUC 学校警方和 FBI 的首要工作。"
+>
+> UIPD: "During a news conference on Tuesday, the Zhang family was presented with replica diaries which investigators took as evidence during the early part of the investigation. The original diary remains in evidence."
+>
+> 学校警方:" 在周二的新闻发布会中，警方向章的家人提供了章莹颖日记的复制本。原件作为物证依然由警方保留。"
+>
+> UIPD:" A ribbon campaign to support the Zhang family and raise awareness about the search for Yingying has begun. Anyone who has donated to [a GoFundMe campaign](https://www.gofundme.com/missing-u-of-i-scholar) to help support the Zhang family’s living expenses during their time in Champaign-Urbana can pick up a yellow ribbon at the front desk of the University of Illinois Police Department. Those people are encouraged to wear the ribbon to signify their support for the search and for the Zhang family. 
+>
+> 学校警方:" 为了表达对莹颖家人的支持，我们发起一项黄丝带运动。我们鼓励所有通过 GoFundMe 网站为莹颖家人捐款的热心人，能去学校警方领取并佩戴黄丝带，以表达他们对莹颖家人和搜寻工作的关切与支持。"
+
+> News-gazette: "Ms. Zhang's mother, Lifeng Ye, and younger brother, Xinyang Zhang, 23, flew to Champaign from China on Saturday, joining her father and boyfriend, who have been here since June 17."
+>
+> 新闻媒体："章的母亲和章的弟弟于上周六日飞抵香槟，与此前于6月17日已抵达美国的家人汇合。"
+
+详见
+
+- 警方 Search-Update: http://police.illinois.edu/search-updates/
+- 新闻报道: http://www.news-gazette.com/news/local/2017-08-22/missing-ui-scholars-family-appeals-trump-help-finding-her.html
+- 新闻发布会报道: https://www.youtube.com/watch?v=oESLztjUvOw
+
+## (8月22日) 章莹颖家人致美国总统公开信
+
+![letter2president](https://findingyingying.github.io/Library/letter2president.jpg)
+
+> 尊敬的总统先生：
+>
+> 我与我的妻子今天怀着悲痛的心情给你写了这封信，我们的女儿章莹颖在刚刚开启她在美国伊利诺伊州香槟分校访问学习之际，于2017年6月9日在伊州厄本那失踪。我们被当地的执法部门告知章莹颖被绑架而且有可能已经遇害。犯罪嫌疑人虽然已经逮捕但是一直没有找到莹颖，这件事情你也许已经有所听闻，除了许多的媒体报导外，在美国和中国的社交网络上也引起了广泛的关注。
+>
+> 许多中国网友持续关注这件事情的进展，作为一个爱自己儿女的父亲，你一定也很理解我们的心情和处境。我们的女儿是一个勤奋聪明的孩子，慷慨富有同情心，一直是我们的骄傲。她的梦想是在美国完成学业回到中国当一名大学教授，把她所学的知识分享给学生们。我们知道莹颖一定会回到我们身边，根深蒂固的中国文化也让我们无法想象在未找到她之前我们如何面对空手而归。
+>
+> 我们相信美国当地联邦机构特别是美国司法部门和联邦调查局正在非常努力帮助寻找她。但是随着时间的流逝，我们也清醒的知道找到她生还的几率一直在下降。我们诚心诚意的希望您能够指示所有能够动用的联邦执法部门以及侦查资源，帮我们尽快找到女儿。感激不尽！
+>
+> 章莹颖的父亲：章荣高 敬上
+
 ## (7月20日) 嫌疑人 Christensen 在提审 (arraignment) 中拒绝认罪 
 
 > CNN: "Brendt Christensen pleaded not guilty Thursday to one count of kidnapping in connection with the disappearance of Yingying Zhang, a University of Illinois student from China."
