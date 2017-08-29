@@ -25,6 +25,23 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (8月28日) 嫌疑人 Christensen 审判 (trial) 时间推迟至2018年2月27日
+
+> Originally set for Sept. 12, Brendt Christensen’s trial has been rescheduled another five months from now, on Feb. 27. Christensen has appeared in court four times since being charged with kidnapping.
+>
+> 原定于9 月 12 日对嫌疑人Brendt Christensen的审判 (trial) 被推迟五个月至2018年2月27日。以绑架罪名被起诉的嫌疑人Christensen目前已上庭四次。
+>
+> The federal kidnapping trial was delayed at a pretrial hearing at the federal courthouse following Christensen’s attorney’s request for a continuance by U.S. District Court Judge Colin Bruce.
+>
+> 在预审听证会（pretrial hearing）上，美国地方法院法官Colin Bruce批准了嫌疑人的律师的审判 (trial) 延期的请求。
+>
+> There were no objections to the delay this afternoon in court.
+> 在法庭上，没有出现对这次延期的反对声音。
+
+详见
+
+- The Daily Illini 报道: https://dailyillini.com/news/2017/08/28/christensen-trial-moved-feb-27/
+
 ## (8月22日) 家人举办新闻发布会发表声明
 
 > 颖莹家人: " (新闻发布会) 在坐的很多人都是为人父母，你们一定能感受到我们的痛苦。我们很感谢两个多月来与我们一起等待，支持我们，给予我们无私帮助的所有人。莹颖是个勇敢的女孩子，她不会放弃，我们也一定不会放弃她，这是我们给她的承诺。即便几个月，一年甚至更长，即便没有任何莹颖的消息，你会看到我们一直站在这里寻找她，我们永远不会放弃她，找到她带她回家，我相信这个梦并不远。"
