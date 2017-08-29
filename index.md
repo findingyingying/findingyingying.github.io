@@ -25,6 +25,102 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (8月22日) 家人举办新闻发布会发表声明
+
+> 颖莹家人: " (新闻发布会) 在坐的很多人都是为人父母，你们一定能感受到我们的痛苦。我们很感谢两个多月来与我们一起等待，支持我们，给予我们无私帮助的所有人。莹颖是个勇敢的女孩子，她不会放弃，我们也一定不会放弃她，这是我们给她的承诺。即便几个月，一年甚至更长，即便没有任何莹颖的消息，你会看到我们一直站在这里寻找她，我们永远不会放弃她，找到她带她回家，我相信这个梦并不远。"
+
+> UIPD:" The investigation is ongoing and continues to be a top priority of University of Illinois Police Department and FBI investigators. "
+>
+> 学校警方:" 对章莹颖的搜索和对案件的调查依然是 UIUC 学校警方和 FBI 的首要工作。"
+>
+> UIPD: "During a news conference on Tuesday, the Zhang family was presented with replica diaries which investigators took as evidence during the early part of the investigation. The original diary remains in evidence."
+>
+> 学校警方:" 在周二的新闻发布会中，警方向章的家人提供了章莹颖日记的复制本。原件作为物证依然由警方保留。"
+>
+> UIPD:" A ribbon campaign to support the Zhang family and raise awareness about the search for Yingying has begun. Anyone who has donated to [a GoFundMe campaign](https://www.gofundme.com/missing-u-of-i-scholar) to help support the Zhang family’s living expenses during their time in Champaign-Urbana can pick up a yellow ribbon at the front desk of the University of Illinois Police Department. Those people are encouraged to wear the ribbon to signify their support for the search and for the Zhang family. 
+>
+> 学校警方:" 为了表达对莹颖家人的支持，我们发起一项黄丝带运动。我们鼓励所有通过 GoFundMe 网站为莹颖家人捐款的热心人，能去学校警方领取并佩戴黄丝带，以表达他们对莹颖家人和搜寻工作的关切与支持。"
+
+> News-gazette: "Ms. Zhang's mother, Lifeng Ye, and younger brother, Xinyang Zhang, 23, flew to Champaign from China on Saturday, joining her father and boyfriend, who have been here since June 17."
+>
+> 新闻媒体："章的母亲和章的弟弟于上周六日飞抵香槟，与此前于6月17日已抵达美国的家人汇合。"
+
+详见
+
+- 警方 Search-Update: http://police.illinois.edu/search-updates/
+- 新闻报道: http://www.news-gazette.com/news/local/2017-08-22/missing-ui-scholars-family-appeals-trump-help-finding-her.html
+- 新闻发布会报道: https://www.youtube.com/watch?v=oESLztjUvOw
+
+## (8月22日) 章莹颖家人致美国总统公开信
+
+![letter2president](https://findingyingying.github.io/Library/letter2president.jpg)
+
+> 尊敬的总统先生：
+>
+> 我与我的妻子今天怀着悲痛的心情给你写了这封信，我们的女儿章莹颖在刚刚开启她在美国伊利诺伊州香槟分校访问学习之际，于2017年6月9日在伊州厄本那失踪。我们被当地的执法部门告知章莹颖被绑架而且有可能已经遇害。犯罪嫌疑人虽然已经逮捕但是一直没有找到莹颖，这件事情你也许已经有所听闻，除了许多的媒体报导外，在美国和中国的社交网络上也引起了广泛的关注。
+>
+> 许多中国网友持续关注这件事情的进展，作为一个爱自己儿女的父亲，你一定也很理解我们的心情和处境。我们的女儿是一个勤奋聪明的孩子，慷慨富有同情心，一直是我们的骄傲。她的梦想是在美国完成学业回到中国当一名大学教授，把她所学的知识分享给学生们。我们知道莹颖一定会回到我们身边，根深蒂固的中国文化也让我们无法想象在未找到她之前我们如何面对空手而归。
+>
+> 我们相信美国当地联邦机构特别是美国司法部门和联邦调查局正在非常努力帮助寻找她。但是随着时间的流逝，我们也清醒的知道找到她生还的几率一直在下降。我们诚心诚意的希望您能够指示所有能够动用的联邦执法部门以及侦查资源，帮我们尽快找到女儿。感激不尽！
+>
+> 章莹颖的父亲：章荣高 敬上
+
+## (7月20日) 嫌疑人 Christensen 在提审 (arraignment) 中拒绝认罪 
+
+> CNN: "Brendt Christensen pleaded not guilty Thursday to one count of kidnapping in connection with the disappearance of Yingying Zhang, a University of Illinois student from China."
+>
+> CNN 新闻媒体: "(在20日的传讯 (arraignment) 中) 嫌疑人 Brendt Christensen 拒绝认罪。Christensen 被指控绑架了来自中国的伊利诺伊大学留学生章莹颖。"
+>
+> CNN: "He is due in court again on August 28 for a pretrial hearing. A trial has tentatively been scheduled for September 12."
+>
+> CNN 新闻媒体: " 他 (嫌疑人 Christensen) 将在 8 月 28 日的预审听证会（pretrial hearing）中再次出庭。正式的审判（trial）暂时安排在 9 月 12 日。"
+
+CNN 新闻报道: http://www.cnn.com/2017/07/20/us/chinese-scholar-kidnapping-suspect-plea/index.html
+
+## (7月14日) 莹颖家人通过 Champain County Crime Stoppers 将悬赏额度提高到5万美金
+
+> Yingying's family: "…In hopes that someone, somewhere has information on where to find Yingying, we are increasing the reward for information about her location up to $50,000. We would consider additional reward, if anyone can bring her back safely…"
+>
+> 颖莹家人：” ...也许在某个地方，还有人知道更多的信息，可以帮助我们找到莹颖的所在地。带着这种期愿，我们将悬赏额度提高到5万美金。如果有人能将莹颖平安带回，我们愿意给予更高的报偿。”
+>
+> Yingying's family: "..Investigators were able to make an arrest, in part because of information shared with them by people in Champaign-Urbana. We are so grateful for their courage and compassion, and we hope that others who might have additional information will follow that example and help us find Yingying. Thank you."
+>
+> 颖莹家人：”…调查人员之所以能够顺利的完成逮捕，部分原因正是归功于香槟-厄巴纳当地居民提供的信息。我们非常感激他们的勇气与同情。我们期愿那些有更多信息的人，能效仿这些例子，帮助我们找到莹颖的所在。谢谢你们。“
+>
+> UIPD: "…Tips must be submitted through Crime Stoppers to be eligible for the reward. The Crime Stoppers reward is separate and not linked to the $10,000 reward offered by the FBI for information leading to the location of Ms. Zhang. Calls and messages to Crime Stoppers are routed to a third-party call center, which strips all identifying information from the call before forwarding the information to police. Callers are assigned a unique identifying number."
+>
+> 学校警方: "必须通过 Crime Stoppers 提供信息才能得到（5万美金）奖励。Crime Stoppers 的奖励与 FBI 提供的1万刀奖励没有关联，是分开的。Crime Stoppers 接到的电话和信息都将通过一个第三方呼叫中心转交给警察。在这个过程中，第三方呼叫中心将隐藏呼叫方的任何个人信息。每个匿名提供信息的人都将得到一个独立的身份验证码（a unique identifying number）。"
+
+详见：
+
+- 新闻发布会视屏：https://www.facebook.com/UIpolice/videos/10155510925191060/
+- UIPD search updates：http://police.illinois.edu/search-updates/
+- Crime Stoppers 提供匿名信息电话：217-373-TIPS(8477)
+- Crime Stoppers 提供匿名信息网站：http://373tips.com/
+- Crime Stoppers iOS app 下载：https://itunes.apple.com/us/app/p3-tips/id997141662?mt=8
+- Crime Stoppers Android app 下载：https://play.google.com/store/apps/details?id=com.p3tips.mob&hl=en
+
+## (7月12日) 联邦大陪审团以绑架罪名起诉嫌疑人 Brendt Christensen
+
+> UIDP: "A federal grand jury today indicted 28-year-old Brendt Christensen on charges of kidnapping. The Acting U.S. Attorney Patrick D. Hansen and FBI Special Agent in Charge Sean Cox announced the indictment in a press release"
+>
+> 学校警方：“联邦大陪审团以绑架罪名起诉嫌疑人 Brendt Christensen。美联邦法院检察官 Patrick D. Hansen 和 FBI 探员 Sean Cox 向媒体公布了公诉书 (INDICTMENT).”
+>
+> U.S. Attorney’s Office: ”The date for arraignment for Christensen will be scheduled by the U.S. Clerk of the Court in Urbana. A preliminary hearing that had been scheduled on July 14, has been cancelled.“
+>
+> 美联邦司法部: "预定于 7 月 14 日举行的初步聆讯 (preliminary hearing) 已被取消。传讯 (arraignment) 日期将由厄巴纳联邦法院文书部门 (the U.S. Clerk of the Court in Urbana) 安排. ”
+>
+> News-gazette: "Christensen will be arraigned at 3 p.m. on July 20 in Long’s courtroom in Urbana."
+>
+> 新闻媒体 News-gazette：“预计 7 月 20 日下午 3 点，嫌疑人 Christensen 将在厄巴纳法庭被传讯。“
+
+详见: 
+
+- 美联邦司法部新闻稿: https://www.justice.gov/usao-cdil/pr/grand-jury-indicts-champaign-man-charge-kidnapping
+- 公诉书: https://www.justice.gov/usao-cdil/press-release/file/980141/download
+- UIPD search update: http://police.illinois.edu/search-updates/
+- News-gazette 新闻报道: http://www.news-gazette.com/news/local/2017-07-12/new-christensen-be-arraigned-federal-kidnapping-charge-july-20.html
+
 ## (7月5日) 本周三，法官裁定嫌疑人不得保释
 
 > UIPD: "A judge ruled Wednesday that the defendant be held without bail, meaning he will remain in custody indefinitely through the court proceedings."
@@ -63,21 +159,21 @@ UIPD 6月30日紧急公告: [http://police.illinois.edu/dpsapp/wp-content/upload
 
 Criminal Complaint 刑事诉讼书: [http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/christensen-complnt.pdf](http://police.illinois.edu/dpsapp/wp-content/uploads/2017/06/christensen-complnt.pdf)
 
-## (6月29日) 校方与学联为章莹颖举办游行及音乐会
+## (6月29日) 校方与 UIUC CSSA 为章莹颖举办游行及音乐会
 
-> The University of Illinois and the Chinese Students and Scholars Association (CSSA) invite you to join them on this walk and concert to convey community support and concern for Yingying Zhang, the visiting scholar missing since June 9.
+> UIUC CSSA: "The University of Illinois and the Chinese Students and Scholars Association (CSSA) invite you to join them on this walk and concert to convey community support and concern for Yingying Zhang, the visiting scholar missing since June 9."
 >
-> 为表达对章莹颖的支持，伊利偌伊大学与中国学生学者联合会(CSSA)邀请您加入游行以及音乐会。
+> 伊大中国学生学者联合会: "为表达对章莹颖的支持，伊利偌伊大学与中国学生学者联合会(CSSA)邀请您加入游行以及音乐会。"
 >
-> Meet outside Krannert Center in the plaza on the western side of the building at 6:30pm. The walk will begin at 6:45pm and head to Turner Hall where Zhang works, then to the bus stop on North Goodwin Avenue where she was last seen, and back to Krannert Center. The concert will follow at Stage 5 featuring Jasmine Fields Orchestra.
+> UIUC CSSA: "Meet outside Krannert Center in the plaza on the western side of the building at 6:30pm. The walk will begin at 6:45pm and head to Turner Hall where Zhang works, then to the bus stop on North Goodwin Avenue where she was last seen, and back to Krannert Center. The concert will follow at Stage 5 featuring Jasmine Fields Orchestra."
 >
-> 时间：6月29日下午6:30
->
-> 地点：Krannert Center西侧广场
->
-> 游行将在下午6:45开始，首先前往莹颖工作的地方Turner Hall，然后前往莹颖最后被目击的巴士站North Goodwin Ave，最后返回Krannert Center。音乐会随之将在第五舞台开始，由Jasmine Fields Orchestra领衔。
+> 伊大中国学生学者联合会: "游行将在下午6:45开始，首先前往莹颖工作的地方Turner Hall，然后前往莹颖最后被目击的巴士站North Goodwin Ave，最后返回Krannert Center。音乐会随之将在第五舞台开始，由Jasmine Fields Orchestra领衔。"
 
-详见学校Krannert Center公告: https://krannertcenter.com/events/walk-and-concert-support-yingying-zhang
+时间：6月29日下午6:30
+
+地点：Krannert Center西侧广场
+
+详见学校 Krannert Center 公告: https://krannertcenter.com/events/walk-and-concert-support-yingying-zhang
 
 ## (6月27日) FBI 声称找到了绑架莹颖的车
 
