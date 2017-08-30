@@ -25,22 +25,24 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (8月29日) 莹颖家人致关心莹颖的朋友和同胞公开信
+
+> 莹颖家人: "在 8 月 22 日的发布会之后，我们家人真切感受到了社会各界对于莹颖的关心、关注，
+> 让我们非常感动和感激。同时，我们从各个途径获知，大家还有很多疑问，希望获得更加详
+> 细的信息。正如我们在发布会中所说，没有大家的支持和鼓励，我们不可能走到今天，所以
+> 我们有责任向每一个关心莹颖的朋友，汇报家人近况、未来计划、捐款安排等等相关信息。
+> 因此，在这封信中，我们汇集了目前所了解到的十一个问题，并尽可能完善地进行了回答。"
+
+- 详见: https://findingyingying.github.io/Library/8-28-family-letter.pdf
+- 新闻报道：http://news.sina.com.cn/c/nd/2017-08-30/doc-ifykkfat2003806.shtml
+
 ## (8月28日) 嫌疑人 Christensen 审判 (trial) 时间推迟至2018年2月27日
 
-> Originally set for Sept. 12, Brendt Christensen’s trial has been rescheduled another five months from now, on Feb. 27. Christensen has appeared in court four times since being charged with kidnapping.
+> 海外网："当地时间28日，涉嫌绑架中国学者章莹颖的嫌疑人克里斯滕森再次出庭，而他的律师布鲁诺提出了延后审判日期的要求，联邦法官决定将原本定于9月12日的庭审延后到2018年的2月27日。对于这一决定，章莹颖家人的法律援助律师王志东称，由于证据量巨大，辩方和检方联合要求法庭将审判日期延期是意料之中的。他还认为，嫌犯或以交代章莹颖的下落为交换条件，来换取对他的从轻起诉甚至是判决。"
 >
-> 原定于9 月 12 日对嫌疑人Brendt Christensen的审判 (trial) 被推迟五个月至2018年2月27日。以绑架罪名被起诉的嫌疑人Christensen目前已上庭四次。
->
-> The federal kidnapping trial was delayed at a pretrial hearing at the federal courthouse following Christensen’s attorney’s request for a continuance by U.S. District Court Judge Colin Bruce.
->
-> 在预审听证会（pretrial hearing）上，美国地方法院法官Colin Bruce批准了嫌疑人的律师的审判 (trial) 延期的请求。
->
-> There were no objections to the delay this afternoon in court.
-> 在法庭上，没有出现对这次延期的反对声音。
+> 海外网：“据美国侨报网报道，检方表明有意提出追加起诉。目前法官已经将章莹颖案的正式审判日期定在2018年2月27日， 庭前会议的日期定在2018年2月12日。法官为本案预留出3个星期的审判时间。法官同时表明，这些日期已经确定，且不再推迟。在此期间，嫌犯将被继续关押。法官还要求追加起诉之后所必要的程序应于2017年12月15日之前完成。”
 
-详见
-
-- The Daily Illini 报道: https://dailyillini.com/news/2017/08/28/christensen-trial-moved-feb-27/
+详见”海外网“ 媒体报道: http://news.cri.cn/20170829/5a695527-1c3f-a80a-e354-c66f6f325822.html
 
 ## (8月22日) 家人举办新闻发布会发表声明
 
