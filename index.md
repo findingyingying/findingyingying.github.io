@@ -25,6 +25,14 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (9月17日) 百日烛光纪念活动
+
+截止9月17日，章莹颖失踪已100天。UIUC校方和家人于当天晚上6点30点在学校 Anniversary Plaza 举行烛光纪念活动。UIUC教务副校长，农学院院长和莹颖的家人将在会上进行发言。百余名学生、学者以及当地市民参加了活动。
+
+![](https://findingyingying.github.io/Library/9_17.jpeg)
+
+- 图片来源和新闻报道: http://www.news-gazette.com/multimedia/photogallery/2017-09-17/100-days-missing-yingying-zhang-vigil
+
 ## (8月29日) 莹颖家人致关心莹颖的朋友和同胞公开信
 
 > 莹颖家人: "在 8 月 22 日的发布会之后，我们家人真切感受到了社会各界对于莹颖的关心、关注，
