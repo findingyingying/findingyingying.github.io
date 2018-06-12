@@ -25,6 +25,13 @@ title: 寻找莹颖 | findingyingying
 # 事件进展
 </div>
 
+## (2018年6月9日) 章莹颖失踪一周年纪念活动
+
+截止2018年6月9日，距离章莹颖失踪已经整整一年。UIUC校方，学生组织，志愿者们，以及关注莹颖事件的朋友们，举行了一周年祈福活动。活动呼吁社会各界对章莹颖事件继续保持关注。
+
+- [网上祈福地址](http://uiuccssa.org/pray-for-yingying/)
+- [纪念视屏地址](https://v.youku.com/v_show/id_XMzY1NjI4NzQ4NA==.html?sharefrom=iphone&sharekey=109a9ebf44c1e5792ac003b96fae62c99)
+
 ## (9月17日) 百日烛光纪念活动
 
 截止9月17日，章莹颖失踪已100天。UIUC校方和家人于当天晚上6点30点在学校 Anniversary Plaza 举行烛光纪念活动。UIUC教务副校长，农学院院长和莹颖的家人将在会上进行发言。百余名学生、学者以及当地市民参加了活动。
